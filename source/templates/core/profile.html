@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% block current-core-profile %} class="current"{% endblock %}
+
+{% block content %}
+<h1>Profile</h1>
+			
+<h2>Edit Profile <span>(you can edit your profile at this page)</span></h2>
+{% if form.errors %}
+    <div class="error">
+    	Error! Data not properly saved!
+    </div>
+{% endif %}
+{% if saved %}
+    <div class="success">
+		Data successfully saved!
+	</div>
+{% endif %}
+<div class="inner-box clearfix">
+    
+    {% include "core/sidebar.html" %}
+
+	<div id="form-block">
+	    <form method="post" action="{% url core-profile %}">
+	        
+	        {% csrf_token %}
+	        
+	        {% for field in form %}
+	            <input type="hidden" name="user" value="{{ user_id }}" id="id_user" />
+	            {% ifnotequal field.label "User" %}
+	                <label for="username">{{ field.label }}</label>
+                    {{ field }}
+                    <em>{{ field.help_text }}</em>
+                    {{ field.errors }}
+                {% endifnotequal %}
+	        {% endfor %}
+
+    		<input type="submit" class="submit" name="submit" value="Update" id="submit" />
+	    
+		</form>
+	</div>
+
+</div>
+{% endblock %}

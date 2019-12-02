@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block current-core-index %} class="current"{% endblock %}
+
+{% block content %}
+<h1>Content</h1>
+			
+<h2>Preferences <span>(please specify courses taken)</span></h2>
+{% if form.errors %}
+    <div class="error">
+    	Error! Data not properly saved!
+    </div>
+{% endif %}
+{% if not user_profile_exists %}
+    <div class="error">
+    	Please create your profile.
+    </div>
+{% endif %}
+<div class="inner-box clearfix">
+
+    {% include "core/sidebar.html" %}
+
+	<div id="form-block">
+	    
+	    <form action="{% url core-index %}" method="post" accept-charset="utf-8">
+	        
+	        {% csrf_token %}
+	        
+	        {{ form.as_p }}
+	        
+	        <input type="submit" class="submit" name="submit" value="Submit" id="submit" />
+	        
+	    </form>
+	
+	</div>
+
+</div>
+{% endblock %}

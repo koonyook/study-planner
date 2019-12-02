@@ -1,0 +1,2428 @@
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '204432'
+    description: "\u0E01\u0E32\u0E23\u0E1E\u0E31\u0E12\u0E19\u0E32\u0E0B\u0E2D\u0E1F\
+      \u0E15\u0E4C\u0E41\u0E27\u0E23\u0E4C\u0E40\u0E0A\u0E34\u0E07\u0E27\u0E31\u0E15\
+      \u0E16\u0E38\u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E23\u0E30\u0E1A\u0E1A\u0E2A\
+      \u0E32\u0E23\u0E2A\u0E19\u0E40\u0E17\u0E28\u0E23\u0E30\u0E14\u0E31\u0E1A\u0E2D\
+      \u0E07\u0E04\u0E4C\u0E01\u0E23\r\n\u0E40\u0E17\u0E04\u0E42\u0E19\u0E42\u0E25\
+      \u0E22\u0E35\u0E27\u0E31\u0E15\u0E16\u0E38\u0E41\u0E1A\u0E1A\u0E01\u0E23\u0E30\
+      \u0E08\u0E32\u0E22 \u0E2A\u0E16\u0E32\u0E1B\u0E31\u0E15\u0E22-\u0E01\u0E23\u0E23\
+      \u0E21\u0E41\u0E1A\u0E1A\u0E04\u0E2D\u0E23\u0E4C\u0E1A\u0E32\u0E41\u0E25\u0E30\
+      \u0E01\u0E32\u0E23\u0E1B\u0E23\u0E30\u0E22\u0E38\u0E01\u0E15\u0E4C"
+    description_eng: "Object-oriented software development for enterprise information\
+      \ system;\r\ndistributed object technology; common object request broker architecture\r\
+      \n(CORBA) and its applications."
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A\u0E40\u0E0A\u0E34\
+      \u0E07\u0E27\u0E31\u0E15\u0E16\u0E38"
+    name_eng: Object-Oriented Computing
+    prerequisites: [16]
+    units: 3
+    years_available: 4
+  model: core.subject
+  pk: 33
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '204112'
+    description: "\u0E01\u0E32\u0E23\u0E40\u0E23\u0E35\u0E22\u0E19\u0E23\u0E39\u0E49\
+      \u0E14\u0E49\u0E27\u0E22\u0E15\u0E19\u0E40\u0E2D\u0E07\u0E08\u0E32\u0E01\u0E2A\
+      \u0E37\u0E48\u0E2D\u0E2D\u0E34\u0E40\u0E25\u0E47\u0E01\u0E17\u0E23\u0E2D\u0E19\
+      \u0E34\u0E01\u0E2A\u0E4C \u0E20\u0E32\u0E22\u0E43\u0E15\u0E49\u0E01\u0E32\u0E23\
+      \u0E0A\u0E35\u0E49\u0E41\u0E19\u0E30\u0E41\u0E25\u0E30\u0E04\u0E27\u0E1A\u0E04\
+      \u0E38\u0E21\r\n\u0E02\u0E2D\u0E07\u0E2D\u0E32\u0E08\u0E32\u0E23\u0E22\u0E4C\
+      \u0E40\u0E01\u0E35\u0E48\u0E22\u0E27\u0E01\u0E31\u0E1A\u0E2A\u0E16\u0E32\u0E1B\
+      \u0E31\u0E15\u0E22\u0E01\u0E23\u0E23\u0E21\u0E02\u0E2D\u0E07\u0E04\u0E2D\u0E21\
+      \u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C \u0E01\u0E32\u0E23\u0E08\u0E31\
+      \u0E14\u0E40\u0E01\u0E47\u0E1A\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25\u0E43\u0E19\
+      \u0E23\u0E30\u0E1A\u0E1A\r\n\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\
+      \u0E2D\u0E23\u0E4C \u0E1B\u0E23\u0E30\u0E40\u0E20\u0E17\u0E02\u0E2D\u0E07\u0E0B\
+      \u0E2D\u0E1F\u0E17\u0E4C\u0E41\u0E27\u0E23\u0E4C\u0E04\u0E2D\u0E21\u0E1E\u0E34\
+      \u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C \u0E01\u0E32\u0E23\u0E15\u0E34\u0E14\u0E15\
+      \u0E31\u0E49\u0E07\u0E41\u0E25\u0E30\u0E43\u0E0A\u0E49\u0E07\u0E32\u0E19\u0E0B\
+      \u0E2D\u0E1F\u0E15\u0E4C\u0E41\u0E27\u0E23\u0E4C\r\n\u0E01\u0E32\u0E23\u0E43\
+      \u0E0A\u0E49\u0E0B\u0E2D\u0E1F\u0E15\u0E4C\u0E41\u0E27\u0E23\u0E4C \u0E2A\u0E33\
+      \u0E2B\u0E23\u0E31\u0E1A\u0E2A\u0E33\u0E19\u0E31\u0E01\u0E07\u0E32\u0E19\u0E17\
+      \u0E31\u0E48\u0E27\u0E44\u0E1B \u0E40\u0E04\u0E23\u0E37\u0E2D\u0E02\u0E48\u0E32\
+      \u0E22\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C \u0E01\
+      \u0E32\u0E23\u0E43\u0E0A\u0E49\u0E07\u0E32\u0E19\r\n\u0E2D\u0E34\u0E19\u0E40\
+      \u0E15\u0E2D\u0E23\u0E4C\u0E40\u0E19\u0E47\u0E15\u0E23\u0E30\u0E1A\u0E1A\u0E2A\
+      \u0E32\u0E23\u0E2A\u0E19\u0E40\u0E17\u0E28 \u0E41\u0E25\u0E30\u0E23\u0E30\u0E1A\
+      \u0E1A\u0E08\u0E31\u0E14\u0E01\u0E32\u0E23\u0E10\u0E32\u0E19\u0E02\u0E49\u0E2D\
+      \u0E21\u0E39\u0E25 \u0E01\u0E32\u0E23\u0E14\u0E39\u0E41\u0E25\u0E1A\u0E33\u0E23\
+      \u0E38\u0E07\u0E23\u0E31\u0E01\u0E29\u0E32\r\n\u0E04\u0E2D\u0E21\u0E1E\u0E34\
+      \u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C\u0E40\u0E1A\u0E37\u0E49\u0E2D\u0E07\u0E15\
+      \u0E49\u0E19 \u0E41\u0E25\u0E30\u0E01\u0E32\u0E23\u0E1B\u0E23\u0E30\u0E22\u0E38\
+      \u0E01\u0E15\u0E4C\u0E43\u0E0A\u0E49\u0E07\u0E32\u0E19\u0E04\u0E2D\u0E21\u0E1E\
+      \u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C\u0E14\u0E49\u0E32\u0E19\u0E27\u0E34\
+      \u0E28\u0E27\u0E01\u0E23\u0E23\u0E21"
+    description_eng: "Self\u2013learning course from electronic sources; under supervision\
+      \ of the\r\ninstructors in the topics of computer architecture; data storage\
+      \ in computer system;\r\ncomputer software classification; computer software\
+      \ installation and usage; office\r\nsoftware usage, computer network; internet\
+      \ surfing, information and database\r\nmanagement system; basics in computer\
+      \ maintenance; applications of computer in\r\nengineering fields."
+    institution: 1
+    name: "\u0E40\u0E17\u0E04\u0E42\u0E19\u0E42\u0E25\u0E22\u0E35\u0E2A\u0E32\u0E23\
+      \u0E2A\u0E19\u0E40\u0E17\u0E28\u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E27\u0E34\
+      \u0E28\u0E27\u0E01\u0E23"
+    name_eng: Information Technology for Engineers
+    prerequisites: []
+    units: 1
+    years_available: 1
+  model: core.subject
+  pk: 3
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204111'
+    description: "\u0E42\u0E04\u0E23\u0E07\u0E2A\u0E23\u0E49\u0E32\u0E07\u0E1E\u0E37\
+      \u0E49\u0E19\u0E10\u0E32\u0E19\u0E02\u0E2D\u0E07\u0E23\u0E30\u0E1A\u0E1A\u0E04\
+      \u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C\u0E2A\u0E21\u0E31\
+      \u0E22\u0E43\u0E2B\u0E21\u0E48\u0E01\u0E32\u0E23\u0E41\u0E17\u0E19\u0E02\u0E49\
+      \u0E2D\u0E21\u0E39\u0E25\u0E43\u0E19\r\n\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\
+      \u0E40\u0E15\u0E2D\u0E23\u0E4C\u0E01\u0E32\u0E23\u0E41\u0E01\u0E49\u0E1B\u0E31\
+      \u0E0D\u0E2B\u0E32\u0E14\u0E49\u0E27\u0E22\u0E02\u0E31\u0E49\u0E19\u0E15\u0E2D\
+      \u0E19\u0E27\u0E34\u0E18\u0E35 \u0E01\u0E32\u0E23\u0E2D\u0E2D\u0E01\u0E41\u0E1A\
+      \u0E1A\u0E41\u0E25\u0E30\u0E1E\u0E31\u0E12\u0E19\u0E32\u0E42\u0E1B\u0E23\u0E41\
+      \u0E01\u0E23\u0E21\r\n\u0E01\u0E32\u0E23\u0E40\u0E02\u0E35\u0E22\u0E19\u0E42\
+      \u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E40\u0E1A\u0E37\u0E49\u0E2D\u0E07\u0E15\
+      \u0E49\u0E19\u0E14\u0E49\u0E27\u0E22\u0E20\u0E32\u0E29\u0E32\u0E23\u0E30\u0E14\
+      \u0E31\u0E1A\u0E2A\u0E39\u0E07 \u0E01\u0E32\u0E23\u0E1D\u0E36\u0E01\u0E1B\u0E0F\
+      \u0E34\u0E1A\u0E31\u0E15\u0E34\u0E01\u0E32\u0E23\u0E42\u0E1B\u0E23\u0E41\u0E01\
+      \u0E23\u0E21\u0E14\u0E49\u0E27\u0E22\r\n\u0E40\u0E04\u0E23\u0E37\u0E48\u0E2D\
+      \u0E07\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C"
+    description_eng: "Basic structure of modern computer systems; data representation\
+      \ in\r\ncomputers; algorithmic problem solving; program design and development\r\
+      \nmethodology; introductory programming using a high-level programming\r\nlanguage;\
+      \ programming practice in computer laboratory."
+    institution: 1
+    name: "\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C\u0E41\
+      \u0E25\u0E30\u0E01\u0E32\u0E23\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21"
+    name_eng: Computers and Programming
+    prerequisites: []
+    units: 3
+    years_available: 1
+  model: core.subject
+  pk: 2
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204211'
+    description: "\u0E40\u0E0B\u0E15 \u0E25\u0E33\u0E14\u0E31\u0E1A \u0E41\u0E25\u0E30\
+      \u0E1F\u0E31\u0E07\u0E01\u0E4C\u0E0A\u0E31\u0E19 \u0E15\u0E23\u0E23\u0E01\u0E28\
+      \u0E32\u0E2A\u0E15\u0E23\u0E4C \u0E01\u0E32\u0E23\u0E40\u0E15\u0E34\u0E1A\u0E42\
+      \u0E15\u0E02\u0E2D\u0E07\u0E1F\u0E31\u0E07\u0E01\u0E4C\u0E0A\u0E31\u0E19 \u0E27\
+      \u0E34\u0E18\u0E35\u0E01\u0E32\u0E23\u0E1E\u0E34\u0E2A\u0E39\u0E08\u0E19\u0E4C\
+      \r\n\u0E41\u0E25\u0E30\u0E2D\u0E38\u0E1B\u0E19\u0E31\u0E22\u0E27\u0E34\u0E18\
+      \u0E35\u0E17\u0E32\u0E07\u0E04\u0E13\u0E34\u0E15\u0E28\u0E32\u0E2A\u0E15\u0E23\
+      \u0E4C \u0E19\u0E34\u0E22\u0E32\u0E21\u0E41\u0E25\u0E30\u0E02\u0E31\u0E49\u0E19\
+      \u0E15\u0E2D\u0E19\u0E27\u0E34\u0E18\u0E35\u0E41\u0E1A\u0E1A\u0E40\u0E23\u0E35\
+      \u0E22\u0E01\u0E0B\u0E49\u0E33 \u0E27\u0E34\u0E18\u0E35\u0E01\u0E32\u0E23\u0E19\
+      \u0E31\u0E1A\u0E41\u0E25\u0E30\u0E04\u0E27\u0E32\u0E21\r\n\u0E2A\u0E31\u0E21\
+      \u0E1E\u0E31\u0E19\u0E18\u0E4C\u0E41\u0E1A\u0E1A\u0E1B\u0E23\u0E32\u0E01\u0E0E\
+      \u0E0B\u0E49\u0E33 \u0E04\u0E27\u0E32\u0E21\u0E2A\u0E31\u0E21\u0E1E\u0E31\u0E19\
+      \u0E18\u0E4C \u0E04\u0E27\u0E32\u0E21\u0E23\u0E39\u0E49\u0E40\u0E1A\u0E37\u0E49\
+      \u0E2D\u0E07\u0E15\u0E49\u0E19\u0E40\u0E01\u0E35\u0E48\u0E22\u0E27\u0E01\u0E31\
+      \u0E1A\u0E17\u0E24\u0E29\u0E0E\u0E35\u0E01\u0E23\u0E32\u0E1F"
+    description_eng: "Sets, sequences, and functions; logic; the growth of functions;\
+      \ methods of\r\nproof and mathematical induction; recursive definitions and\
+      \ algorithms; counting\r\nmethods and recurrence relations; relations; introduction\
+      \ to graph theory."
+    institution: 1
+    name: "\u0E04\u0E13\u0E34\u0E15\u0E28\u0E32\u0E2A\u0E15\u0E23\u0E4C\u0E40\u0E15\
+      \u0E47\u0E21\u0E2B\u0E19\u0E48\u0E27\u0E22"
+    name_eng: Discrete Mathematics
+    prerequisites: []
+    units: 3
+    years_available: 2
+  model: core.subject
+  pk: 4
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204212'
+    description: "\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25\u0E0A\u0E19\u0E34\u0E14\u0E19\
+      \u0E32\u0E21\u0E18\u0E23\u0E23\u0E21\u0E1E\u0E37\u0E49\u0E19\u0E10\u0E32\u0E19\
+      \ \u0E01\u0E2D\u0E07\u0E40\u0E23\u0E35\u0E22\u0E07\u0E17\u0E31\u0E1A\u0E0B\u0E49\
+      \u0E2D\u0E19 \u0E41\u0E16\u0E27\u0E04\u0E2D\u0E22 \u0E23\u0E32\u0E22\u0E01\u0E32\
+      \u0E23\r\n\u0E15\u0E49\u0E19\u0E44\u0E21\u0E49 \u0E41\u0E25\u0E30\u0E01\u0E23\
+      \u0E32\u0E1F \u0E01\u0E32\u0E23\u0E2A\u0E23\u0E49\u0E32\u0E07 \u0E02\u0E49\u0E2D\
+      \u0E21\u0E39\u0E25\u0E19\u0E32\u0E21\u0E18\u0E23\u0E23\u0E21 \u0E02\u0E31\u0E49\
+      \u0E19\u0E15\u0E2D\u0E19\u0E27\u0E34\u0E18\u0E35\u0E1E\u0E37\u0E49\u0E19\u0E10\
+      \u0E32\u0E19\u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E41\u0E01\u0E49\u0E1B\u0E31\
+      \u0E0D\u0E2B\u0E32\r\n\u0E44\u0E14\u0E49\u0E41\u0E01\u0E48 \u0E40\u0E17\u0E04\
+      \u0E19\u0E34\u0E04\u0E01\u0E32\u0E23\u0E41\u0E1A\u0E48\u0E07\u0E41\u0E22\u0E01\
+      \u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E40\u0E2D\u0E32\u0E0A\u0E19\u0E30 \u0E27\u0E34\
+      \u0E18\u0E35\u0E40\u0E0A\u0E34\u0E07\u0E2E\u0E34\u0E27\u0E23\u0E34\u0E2A\u0E15\
+      \u0E34\u0E01 \u0E01\u0E32\u0E23\u0E27\u0E34\u0E40\u0E04\u0E23\u0E32\u0E30\u0E2B\
+      \u0E4C\u0E04\u0E27\u0E32\u0E21\u0E0B\u0E31\u0E1A\u0E0B\u0E49\u0E2D\u0E19\r\n\
+      \u0E02\u0E2D\u0E07\u0E02\u0E31\u0E49\u0E19\u0E15\u0E2D\u0E19\u0E27\u0E34\u0E18\
+      \u0E35"
+    description_eng: "Abstract Data Types: stack, queues, lists, trees, and graphs;\
+      \ data\r\nabstraction; basic algorithms for problem solving: divide-and-conquer,\
+      \ heuristic\r\nmethods; analysis of algorithm complexity."
+    institution: 1
+    name: "\u0E41\u0E1A\u0E1A\u0E0A\u0E19\u0E34\u0E14\u0E02\u0E49\u0E2D\u0E21\u0E39\
+      \u0E25\u0E19\u0E32\u0E21\u0E18\u0E23\u0E23\u0E21\u0E41\u0E25\u0E30\u0E01\u0E32\
+      \u0E23\u0E41\u0E01\u0E49\u0E1B\u0E31\u0E0D\u0E2B\u0E32"
+    name_eng: Abstract Data Types and Problem Solving
+    prerequisites: []
+    units: 3
+    years_available: 2
+  model: core.subject
+  pk: 5
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204213'
+    description: "\u0E2D\u0E2D\u0E42\u0E15\u0E21\u0E32\u0E15\u0E32\u0E08\u0E33\u0E01\
+      \u0E31\u0E14\u0E40\u0E0A\u0E34\u0E07\u0E01\u0E33\u0E2B\u0E19\u0E14\u0E41\u0E25\
+      \u0E30\u0E40\u0E0A\u0E34\u0E07\u0E44\u0E21\u0E48\u0E01\u0E33\u0E2B\u0E19\u0E14\
+      \ \u0E20\u0E32\u0E29\u0E32\u0E41\u0E25\u0E30\u0E44\u0E27\u0E22\u0E32\u0E01\u0E23\
+      \u0E13\u0E4C\u0E41\u0E1A\u0E1A\r\n\u0E1B\u0E23\u0E01\u0E15\u0E34 \u0E2D\u0E2D\
+      \u0E42\u0E15\u0E21\u0E32\u0E15\u0E32\u0E41\u0E1A\u0E1A\u0E01\u0E14\u0E25\u0E07\
+      \ \u0E41\u0E25\u0E30\u0E44\u0E27\u0E22\u0E32\u0E01\u0E23\u0E13\u0E4C\u0E44\u0E21\
+      \u0E48\u0E1E\u0E36\u0E48\u0E07\u0E1A\u0E23\u0E34\u0E1A\u0E17 \u0E40\u0E04\u0E23\
+      \u0E37\u0E48\u0E2D\u0E07\u0E08\u0E31\u0E01\u0E23\u0E17\u0E31\u0E27\u0E23\u0E34\
+      \u0E07\u0E41\u0E25\u0E30\r\n\u0E01\u0E32\u0E23\u0E04\u0E33\u0E19\u0E27\u0E13\
+      \u0E44\u0E14\u0E49 \u0E25\u0E33\u0E14\u0E31\u0E1A\u0E0A\u0E31\u0E49\u0E19\u0E02\
+      \u0E2D\u0E07\u0E0A\u0E2D\u0E21\u0E2A\u0E01\u0E35 \u0E01\u0E32\u0E23\u0E04\u0E33\
+      \u0E19\u0E27\u0E13\u0E44\u0E21\u0E48\u0E44\u0E14\u0E49 \u0E41\u0E25\u0E30\u0E1B\
+      \u0E31\u0E0D\u0E2B\u0E32\u0E17\u0E35\u0E48\u0E15\u0E31\u0E14\u0E2A\u0E34\u0E19\
+      \u0E44\u0E21\u0E48\u0E44\u0E14\u0E49"
+    description_eng: "Deterministic and non-deterministic finite automata; regular\
+      \ languages and\r\nregular grammars; pushdown automata and context-free grammars;\
+      \ Turing\r\nmachines and computability; the Chomsky hierarchy; uncomputability\
+      \ and\r\nundecidable problems."
+    institution: 1
+    name: "\u0E17\u0E24\u0E29\u0E0E\u0E35\u0E01\u0E32\u0E23\u0E04\u0E33\u0E19\u0E27\
+      \u0E13"
+    name_eng: Theory of Computation
+    prerequisites: [4]
+    units: 3
+    years_available: 2
+  model: core.subject
+  pk: 6
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204214'
+    description: "\u0E01\u0E32\u0E23\u0E1E\u0E31\u0E12\u0E19\u0E32\u0E17\u0E31\u0E01\
+      \u0E29\u0E30 \u0E01\u0E32\u0E23\u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A\u0E42\u0E04\
+      \u0E23\u0E07\u0E2A\u0E23\u0E49\u0E32\u0E07\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25\
+      \ \u0E41\u0E25\u0E30\u0E02\u0E31\u0E49\u0E19\u0E15\u0E2D\u0E19\u0E27\u0E34\u0E18\
+      \u0E35 \u0E01\u0E32\u0E23\r\n\u0E41\u0E01\u0E49\u0E1B\u0E31\u0E0D\u0E2B\u0E32\
+      \u0E14\u0E49\u0E27\u0E22\u0E01\u0E32\u0E23\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\
+      \u0E21\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C"
+    description_eng: "Skill development, design of data structure and algorithm, problem\r\
+      \nsolving by computer programming."
+    institution: 1
+    name: "\u0E1B\u0E0F\u0E34\u0E1A\u0E31\u0E15\u0E34\u0E01\u0E32\u0E23\u0E1E\u0E31\
+      \u0E12\u0E19\u0E32\u0E17\u0E31\u0E01\u0E29\u0E30\u0E01\u0E32\u0E23\u0E42\u0E1B\
+      \u0E23\u0E41\u0E01\u0E23\u0E21"
+    name_eng: Programming Skills Development Laboratory
+    prerequisites: []
+    units: 1
+    years_available: 2
+  model: core.subject
+  pk: 7
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204222'
+    description: "\u0E23\u0E30\u0E1A\u0E1A\u0E14\u0E34\u0E08\u0E34\u0E17\u0E31\u0E25\
+      \u0E1E\u0E37\u0E49\u0E19\u0E10\u0E32\u0E19 \u0E1E\u0E35\u0E0A\u0E04\u0E13\u0E34\
+      \u0E15\u0E41\u0E1A\u0E1A\u0E1A\u0E39\u0E25 \u0E40\u0E17\u0E04\u0E19\u0E34\u0E04\
+      \u0E01\u0E32\u0E23\u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A\u0E17\u0E32\u0E07\u0E14\
+      \u0E34\u0E08\u0E34\u0E17\u0E31\u0E25\r\n\u0E25\u0E2D\u0E08\u0E34\u0E01\u0E40\
+      \u0E01\u0E15 \u0E01\u0E32\u0E23\u0E25\u0E14\u0E02\u0E19\u0E32\u0E14\u0E15\u0E23\
+      \u0E23\u0E01\u0E30\u0E43\u0E2B\u0E49\u0E40\u0E25\u0E47\u0E01\u0E17\u0E35\u0E48\
+      \u0E2A\u0E38\u0E14 \u0E27\u0E07\u0E08\u0E23\u0E40\u0E0A\u0E34\u0E07\u0E1B\u0E23\
+      \u0E30\u0E2A\u0E21\u0E21\u0E32\u0E15\u0E23\u0E10\u0E32\u0E19 \u0E27\u0E07\u0E08\
+      \u0E23\u0E40\u0E0A\u0E34\u0E07\u0E25\u0E33\u0E14\u0E31\u0E1A\r\n\u0E1F\u0E25\
+      \u0E34\u0E1B-\u0E1F\u0E25\u0E47\u0E2D\u0E1B\u0E27\u0E07\u0E08\u0E23\u0E40\u0E0A\
+      \u0E34\u0E07\u0E25\u0E33\u0E14\u0E31\u0E1A\u0E41\u0E1A\u0E1A\u0E1B\u0E23\u0E30\
+      \u0E2A\u0E32\u0E19\u0E40\u0E27\u0E25\u0E32\u0E41\u0E25\u0E30\u0E41\u0E1A\u0E1A\
+      \u0E44\u0E21\u0E48\u0E1B\u0E23\u0E30\u0E2A\u0E32\u0E19\u0E40\u0E27\u0E25\u0E32\
+      \ \u0E1E\u0E35\u0E41\u0E2D\u0E25\u0E40\u0E2D\r\n\u0E23\u0E2D\u0E21 \u0E41\u0E25\
+      \u0E30\u0E41\u0E23\u0E21 \u0E27\u0E07\u0E08\u0E23\u0E04\u0E33\u0E19\u0E27\u0E13\
+      \ \u0E01\u0E32\u0E23\u0E43\u0E0A\u0E49\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\
+      \u0E15\u0E2D\u0E23\u0E4C\u0E0A\u0E48\u0E27\u0E22\u0E2D\u0E2D\u0E01\u0E41\u0E1A\
+      \u0E1A\u0E17\u0E32\u0E07\u0E15\u0E23\u0E23\u0E01\u0E30"
+    description_eng: "Basic digital systems; boolean algebra; digital design techniques;\
+      \ logic\r\ngates; logic minimization; standard combinational circuits, sequential\
+      \ circuits;\r\nflip-flops; synchronous and asynchronous sequential circuits;\
+      \ PLA, ROM, and\r\nRAM; arithmetic circuits; computer-aided logic design."
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A\u0E23\u0E30\u0E1A\
+      \u0E1A\u0E14\u0E34\u0E08\u0E34\u0E17\u0E31\u0E25"
+    name_eng: Digital Systems Design
+    prerequisites: []
+    units: 3
+    years_available: 2
+  model: core.subject
+  pk: 8
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204223'
+    description: "\u0E2A\u0E48\u0E27\u0E19\u0E1B\u0E23\u0E30\u0E01\u0E2D\u0E1A\u0E02\
+      \u0E2D\u0E07\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C\
+      \u0E2A\u0E48\u0E27\u0E19\u0E1A\u0E38\u0E04\u0E04\u0E25\u0E41\u0E25\u0E30\u0E01\
+      \u0E32\u0E23\u0E15\u0E34\u0E14\u0E15\u0E31\u0E49\u0E07\u0E23\u0E30\u0E1A\u0E1A\
+      \r\n\u0E1B\u0E0F\u0E34\u0E1A\u0E31\u0E15\u0E34\u0E01\u0E32\u0E23\u0E2A\u0E21\
+      \u0E31\u0E22\u0E43\u0E2B\u0E21\u0E48 \u0E01\u0E32\u0E23\u0E43\u0E0A\u0E49 \u0E01\
+      \u0E32\u0E23\u0E0B\u0E48\u0E2D\u0E21\u0E1A\u0E33\u0E23\u0E38\u0E07\u0E41\u0E25\
+      \u0E30\u0E1E\u0E31\u0E12\u0E19\u0E32\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\
+      \u0E1A\u0E19\u0E23\u0E30\u0E1A\u0E1A\r\n\u0E1B\u0E0F\u0E34\u0E1A\u0E31\u0E15\
+      \u0E34\u0E01\u0E32\u0E23\u0E2A\u0E21\u0E31\u0E22\u0E43\u0E2B\u0E21\u0E48 \u0E01\
+      \u0E32\u0E23\u0E15\u0E34\u0E14\u0E15\u0E31\u0E49\u0E07\u0E42\u0E1B\u0E23\u0E41\
+      \u0E01\u0E23\u0E21\u0E08\u0E32\u0E01\u0E23\u0E2B\u0E31\u0E2A\u0E15\u0E49\u0E19\
+      \u0E09\u0E1A\u0E31\u0E1A \u0E40\u0E04\u0E23\u0E37\u0E48\u0E2D\u0E07\u0E21\u0E37\
+      \u0E2D\u0E40\u0E1E\u0E37\u0E48\u0E2D\r\n\u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A\
+      \u0E25\u0E32\u0E22\u0E27\u0E07\u0E08\u0E23 \u0E41\u0E25\u0E30\u0E01\u0E32\u0E23\
+      \u0E1B\u0E23\u0E30\u0E01\u0E2D\u0E1A\u0E27\u0E07\u0E08\u0E23\u0E2D\u0E34\u0E40\
+      \u0E25\u0E47\u0E01\u0E17\u0E23\u0E2D\u0E19\u0E34\u0E01\u0E2A\u0E4C\u0E1E\u0E37\
+      \u0E49\u0E19\u0E10\u0E32\u0E19 \u0E01\u0E23\u0E30\u0E1A\u0E27\u0E19\u0E01\u0E32\
+      \u0E23\r\n\u0E2A\u0E23\u0E49\u0E32\u0E07\u0E41\u0E1C\u0E48\u0E19\u0E1E\u0E34\
+      \u0E21\u0E1E\u0E4C\u0E25\u0E32\u0E22\u0E27\u0E07\u0E08\u0E23 \u0E01\u0E32\u0E23\
+      \u0E1B\u0E23\u0E30\u0E01\u0E2D\u0E1A\u0E27\u0E07\u0E08\u0E23\u0E2D\u0E34\u0E40\
+      \u0E25\u0E47\u0E01\u0E17\u0E23\u0E2D\u0E19\u0E34\u0E01\u0E2A\u0E4C\u0E1E\u0E37\
+      \u0E49\u0E19\u0E10\u0E32\u0E19"
+    description_eng: "Personal computer components and installation of a modern operating\r\
+      \nsystem; use, maintenance, and software development on a modern operating\r\
+      \nsystem; installing software from source code; tools for designing and\r\n\
+      manufacturing process of printed circuit board; assembling basic electronic\r\
+      \ncircuit boards."
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E1D\u0E36\u0E01\u0E1B\u0E0F\u0E34\u0E1A\u0E31\u0E15\
+      \u0E34\u0E17\u0E32\u0E07\u0E27\u0E34\u0E28\u0E27\u0E01\u0E23\u0E23\u0E21\u0E04\
+      \u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C"
+    name_eng: Practicum in Computer Engineering
+    prerequisites: []
+    units: 1
+    years_available: 2
+  model: core.subject
+  pk: 9
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204224'
+    description: "\u0E1B\u0E0F\u0E34\u0E1A\u0E31\u0E15\u0E34\u0E01\u0E32\u0E23\u0E40\
+      \u0E01\u0E35\u0E48\u0E22\u0E27\u0E01\u0E31\u0E1A\u0E40\u0E23\u0E37\u0E48\u0E2D\
+      \u0E07\u0E17\u0E35\u0E48\u0E40\u0E23\u0E35\u0E22\u0E19\u0E43\u0E19\u0E27\u0E34\
+      \u0E0A\u0E32 204222"
+    description_eng: Laboratory works related to the topics in 204222.
+    institution: 1
+    name: "\u0E1B\u0E0F\u0E34\u0E1A\u0E31\u0E15\u0E34\u0E01\u0E32\u0E23\u0E27\u0E07\
+      \u0E08\u0E23\u0E15\u0E23\u0E23\u0E01"
+    name_eng: Logic Circuit Laboratory
+    prerequisites: []
+    units: 1
+    years_available: 2
+  model: core.subject
+  pk: 10
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204225'
+    description: "\u0E1E\u0E37\u0E49\u0E19\u0E10\u0E32\u0E19\u0E2A\u0E16\u0E32\u0E1B\
+      \u0E31\u0E15\u0E22\u0E01\u0E23\u0E23\u0E21\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\
+      \u0E40\u0E15\u0E2D\u0E23\u0E4C \u0E04\u0E13\u0E34\u0E15\u0E28\u0E32\u0E2A\u0E15\
+      \u0E23\u0E4C\u0E02\u0E2D\u0E07\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\
+      \u0E2D\u0E23\u0E4C\r\n\u0E42\u0E04\u0E23\u0E07\u0E2A\u0E23\u0E49\u0E32\u0E07\
+      \u0E41\u0E25\u0E30\u0E2D\u0E07\u0E04\u0E4C\u0E1B\u0E23\u0E30\u0E01\u0E2D\u0E1A\
+      \u0E2B\u0E19\u0E48\u0E27\u0E22\u0E04\u0E27\u0E32\u0E21\u0E08\u0E33 \u0E01\u0E32\
+      \u0E23\u0E40\u0E0A\u0E37\u0E48\u0E2D\u0E21\u0E15\u0E48\u0E2D\u0E41\u0E25\u0E30\
+      \u0E01\u0E32\u0E23\u0E2A\u0E37\u0E48\u0E2D\u0E2A\u0E32\u0E23 \u0E20\u0E32\u0E29\
+      \u0E32\u0E41\u0E2D\u0E2A\r\n\u0E40\u0E0B\u0E21\u0E1A\u0E25\u0E35 \u0E2D\u0E38\
+      \u0E1B\u0E01\u0E23\u0E13\u0E4C\u0E15\u0E48\u0E2D\u0E40\u0E2A\u0E23\u0E34\u0E21\
+      \ \u0E2D\u0E07\u0E04\u0E4C\u0E1B\u0E23\u0E30\u0E01\u0E2D\u0E1A\u0E41\u0E25\u0E30\
+      \u0E01\u0E32\u0E23\u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A\u0E2B\u0E19\u0E48\u0E27\
+      \u0E22\u0E1B\u0E23\u0E30\u0E21\u0E27\u0E25\u0E1C\u0E25\u0E01\u0E25\u0E32\u0E07\
+      \r\n\u0E1B\u0E23\u0E30\u0E2A\u0E34\u0E17\u0E18\u0E34\u0E20\u0E32\u0E1E\u0E41\
+      \u0E25\u0E30\u0E01\u0E32\u0E23\u0E40\u0E1E\u0E34\u0E48\u0E21\u0E2A\u0E21\u0E23\
+      \u0E23\u0E16\u0E19\u0E30 \u0E41\u0E1A\u0E1A\u0E08\u0E33\u0E25\u0E2D\u0E07\u0E23\
+      \u0E30\u0E1A\u0E1A\u0E41\u0E1A\u0E1A\u0E01\u0E23\u0E30\u0E08\u0E32\u0E22 \u0E1B\
+      \u0E0F\u0E34\u0E1A\u0E31\u0E15\u0E34\u0E01\u0E32\u0E23\r\n\u0E2A\u0E16\u0E32\
+      \u0E1B\u0E31\u0E15\u0E22\u0E01\u0E23\u0E23\u0E21\u0E41\u0E25\u0E30\u0E2D\u0E07\
+      \u0E04\u0E4C\u0E1B\u0E23\u0E30\u0E01\u0E2D\u0E1A\u0E04\u0E2D\u0E21\u0E1E\u0E34\
+      \u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C"
+    description_eng: "Basic of computer architecture; computer arithmetic; memory\
+      \ system\r\norganization and architecture; interface and communication; assembly\
+      \ language;\r\ndevice subsystems; processor system design and organization of\
+      \ CPU;\r\nperformance and enhancements; distributed system models; computer\r\
+      \narchitecture and organization laboratory."
+    institution: 1
+    name: "\u0E2A\u0E16\u0E32\u0E1B\u0E31\u0E15\u0E22\u0E01\u0E23\u0E23\u0E21\u0E41\
+      \u0E25\u0E30\u0E2D\u0E07\u0E04\u0E4C\u0E1B\u0E23\u0E30\u0E01\u0E2D\u0E1A\u0E04\
+      \u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C"
+    name_eng: Computer Architecture and Organization
+    prerequisites: [8]
+    units: 3
+    years_available: 2
+  model: core.subject
+  pk: 11
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '417167'
+    description: "\u0E01\u0E32\u0E23\u0E2D\u0E38\u0E1B\u0E19\u0E31\u0E22\u0E17\u0E32\
+      \u0E07\u0E04\u0E13\u0E34\u0E15\u0E28\u0E32\u0E2A\u0E15\u0E23\u0E4C \u0E40\u0E21\
+      \u0E15\u0E23\u0E34\u0E01\u0E0B\u0E4C\u0E41\u0E25\u0E30\u0E15\u0E31\u0E27\u0E01\
+      \u0E33\u0E2B\u0E19\u0E14 \u0E23\u0E30\u0E1A\u0E1A\u0E1E\u0E34\u0E01\u0E31\u0E14\
+      \u0E40\u0E0A\u0E34\u0E07\u0E02\u0E31\u0E49\u0E27\u0E41\u0E25\u0E30\r\n\u0E1E\
+      \u0E34\u0E01\u0E31\u0E14\u0E09\u0E32\u0E01 \u0E25\u0E34\u0E21\u0E34\u0E15\u0E41\
+      \u0E25\u0E30\u0E04\u0E27\u0E32\u0E21\u0E15\u0E48\u0E2D\u0E40\u0E19\u0E37\u0E48\
+      \u0E2D\u0E07\u0E02\u0E2D\u0E07\u0E1F\u0E31\u0E07\u0E01\u0E4C\u0E0A\u0E31\u0E19\
+      \ \u0E2D\u0E19\u0E38\u0E1E\u0E31\u0E19\u0E18\u0E4C\u0E41\u0E25\u0E30\u0E01\u0E32\
+      \u0E23\u0E1B\u0E23\u0E30\u0E22\u0E38\u0E01\u0E15\u0E4C \u0E1C\u0E25\u0E15\u0E48\
+      \u0E32\u0E07\u0E2D\u0E19\u0E38\r\n\u0E1E\u0E31\u0E17\u0E18\u0E4C \u0E1B\u0E23\
+      \u0E34\u0E1E\u0E31\u0E19\u0E18\u0E4C \u0E2D\u0E19\u0E38\u0E01\u0E23\u0E21\u0E2D\
+      \u0E19\u0E31\u0E19\u0E15\u0E4C"
+    description_eng: "Mathematical induction, matrices and determinants, polar and\r\
+      \nrectangular coordinates, limits and continuity, derivatives and applications,\r\
+      \ndifferentials, integration, infinite series."
+    institution: 1
+    name: "\u0E04\u0E13\u0E34\u0E15\u0E28\u0E32\u0E2A\u0E15\u0E23\u0E4C\u0E27\u0E34\
+      \u0E28\u0E27\u0E01\u0E23\u0E23\u0E21 I"
+    name_eng: (Engineering Mathematics I)
+    prerequisites: []
+    units: 3
+    years_available: 1
+  model: core.subject
+  pk: 12
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '417168'
+    description: "\u0E40\u0E27\u0E01\u0E40\u0E15\u0E2D\u0E23\u0E4C\u0E41\u0E25\u0E30\
+      \u0E40\u0E23\u0E02\u0E32\u0E04\u0E13\u0E34\u0E15\u0E27\u0E34\u0E40\u0E04\u0E23\
+      \u0E32\u0E30\u0E2B\u0E4C\u0E17\u0E23\u0E07\u0E2A\u0E32\u0E21\u0E21\u0E34\u0E15\
+      \u0E34 \u0E41\u0E04\u0E25\u0E04\u0E39\u0E25\u0E31\u0E2A\u0E02\u0E2D\u0E07\u0E1F\
+      \u0E31\u0E07\u0E01\u0E4C\u0E0A\u0E31\u0E19\u0E2B\u0E25\u0E32\u0E22\u0E15\u0E31\
+      \u0E27\r\n\u0E41\u0E1B\u0E23 \u0E1B\u0E23\u0E34\u0E1E\u0E31\u0E19\u0E18\u0E4C\
+      \u0E2B\u0E25\u0E32\u0E22\u0E0A\u0E31\u0E49\u0E19 \u0E40\u0E27\u0E01\u0E40\u0E15\
+      \u0E2D\u0E23\u0E4C\u0E41\u0E04\u0E25\u0E04\u0E39\u0E25\u0E31\u0E2A \u0E41\u0E04\
+      \u0E25\u0E04\u0E39\u0E25\u0E31\u0E2A\u0E02\u0E2D\u0E07\u0E15\u0E31\u0E27\u0E41\
+      \u0E1B\u0E23\u0E40\u0E0A\u0E34\u0E07\u0E0B\u0E49\u0E2D\u0E19"
+    description_eng: "Vectors and solid analytic geometry, calculus of several variables,\r\
+      \nmultiple integrals, vector calculus, calculus of complex variables."
+    institution: 1
+    name: "\u0E04\u0E13\u0E34\u0E15\u0E28\u0E32\u0E2A\u0E15\u0E23\u0E4C\u0E27\u0E34\
+      \u0E28\u0E27\u0E01\u0E23\u0E23\u0E21 II"
+    name_eng: Engineering Mathematics II
+    prerequisites: [12]
+    units: 3
+    years_available: 1
+  model: core.subject
+  pk: 14
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204312'
+    description: "\u0E04\u0E27\u0E32\u0E21\u0E19\u0E48\u0E32\u0E08\u0E30\u0E40\u0E1B\
+      \u0E47\u0E19 \u0E04\u0E27\u0E32\u0E21\u0E19\u0E48\u0E32\u0E08\u0E30\u0E40\u0E1B\
+      \u0E47\u0E19\u0E41\u0E1A\u0E1A\u0E21\u0E35\u0E40\u0E07\u0E37\u0E48\u0E2D\u0E19\
+      \u0E44\u0E02 \u0E04\u0E27\u0E32\u0E21\u0E40\u0E1B\u0E47\u0E19\u0E2D\u0E34\u0E2A\
+      \u0E23\u0E30\u0E02\u0E2D\u0E07\u0E40\u0E2B\u0E15\u0E38\u0E01\u0E32\u0E23\u0E13\
+      \u0E4C \u0E15\u0E31\u0E27\r\n\u0E41\u0E1B\u0E23\u0E2A\u0E38\u0E48\u0E21 \u0E1F\
+      \u0E31\u0E07\u0E01\u0E4C\u0E0A\u0E31\u0E19\u0E01\u0E32\u0E23\u0E41\u0E08\u0E01\
+      \u0E41\u0E08\u0E07\u0E41\u0E25\u0E30\u0E04\u0E27\u0E32\u0E21\u0E2B\u0E19\u0E32\
+      \u0E41\u0E19\u0E48\u0E19 \u0E1F\u0E31\u0E07\u0E01\u0E4C\u0E0A\u0E31\u0E19\u0E02\
+      \u0E2D\u0E07\u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23\u0E2A\u0E38\u0E48\u0E21\u0E40\
+      \u0E14\u0E35\u0E22\u0E27 \u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23\u0E2A\u0E38\u0E48\
+      \u0E21\r\n\u0E2B\u0E25\u0E32\u0E22\u0E15\u0E31\u0E27 \u0E01\u0E32\u0E23\u0E14\
+      \u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E01\u0E31\u0E1A\u0E15\u0E31\
+      \u0E27\u0E41\u0E1B\u0E23\u0E2A\u0E38\u0E48\u0E21\u0E15\u0E31\u0E27\u0E40\u0E14\
+      \u0E35\u0E22\u0E27\u0E41\u0E25\u0E30\u0E2B\u0E25\u0E32\u0E22\u0E15\u0E31\u0E27\
+      \r\n\u0E01\u0E0E\u0E02\u0E2D\u0E07\u0E08\u0E33\u0E19\u0E27\u0E19\u0E40\u0E25\
+      \u0E02\u0E02\u0E19\u0E32\u0E14\u0E43\u0E2B\u0E0D\u0E48 \u0E17\u0E24\u0E29\u0E0E\
+      \u0E35\u0E08\u0E33\u0E01\u0E31\u0E14\u0E0A\u0E48\u0E27\u0E07\u0E01\u0E25\u0E32\
+      \u0E07 \u0E01\u0E23\u0E30\u0E1A\u0E27\u0E19\u0E01\u0E32\u0E23\u0E2A\u0E38\u0E48\
+      \u0E21 \u0E41\u0E25\u0E30\r\n\u0E01\u0E32\u0E23\u0E1B\u0E23\u0E30\u0E22\u0E38\
+      \u0E01\u0E15\u0E4C \u0E01\u0E32\u0E23\u0E1B\u0E23\u0E30\u0E22\u0E38\u0E01\u0E15\
+      \u0E4C\u0E01\u0E31\u0E1A\u0E1B\u0E31\u0E0D\u0E2B\u0E32\u0E17\u0E32\u0E07\u0E27\
+      \u0E34\u0E28\u0E27\u0E01\u0E23\u0E23\u0E21\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\
+      \u0E40\u0E15\u0E2D\u0E23\u0E4C"
+    description_eng: "Probability; conditional probability and independence of events;\
+      \ random\r\nvariables; distribution and density functions; functions of one\
+      \ random variable;\r\nmultiple random variables; operations on oneand multiple\
+      \ random variables; laws\r\nof large numbers; central limit theorem; random\
+      \ processes and their applications;\r\napplication to computer engineering problems."
+    institution: 1
+    name: "\u0E04\u0E27\u0E32\u0E21\u0E19\u0E48\u0E32\u0E08\u0E30\u0E40\u0E1B\u0E47\
+      \u0E19\u0E41\u0E25\u0E30\u0E01\u0E23\u0E30\u0E1A\u0E27\u0E19\u0E01\u0E32\u0E23\
+      \u0E2A\u0E38\u0E48\u0E21\u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E27\u0E34\u0E28\
+      \u0E27\u0E01\u0E23\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\
+      \u0E4C"
+    name_eng: Probability and Random Processes for Computer Engineers
+    prerequisites: [14]
+    units: 3
+    years_available: 3
+  model: core.subject
+  pk: 15
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204313'
+    description: "\u0E01\u0E32\u0E23\u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A\u0E41\u0E25\
+      \u0E30\u0E27\u0E34\u0E40\u0E04\u0E23\u0E32\u0E30\u0E2B\u0E4C\u0E02\u0E31\u0E49\
+      \u0E19\u0E15\u0E2D\u0E19\u0E27\u0E34\u0E18\u0E35 \u0E04\u0E27\u0E32\u0E21\u0E16\
+      \u0E39\u0E01\u0E15\u0E49\u0E2D\u0E07\u0E02\u0E2D\u0E07\u0E02\u0E31\u0E49\u0E19\
+      \u0E15\u0E2D\u0E19\u0E27\u0E34\u0E18\u0E35 \u0E01\u0E32\u0E23\u0E27\u0E34\u0E40\
+      \u0E04\u0E23\u0E32\u0E30\u0E2B\u0E4C\r\n\u0E04\u0E27\u0E32\u0E21\u0E0B\u0E31\
+      \u0E1A\u0E0B\u0E49\u0E2D\u0E19 \u0E02\u0E31\u0E49\u0E19\u0E15\u0E2D\u0E19\u0E27\
+      \u0E34\u0E18\u0E35\u0E40\u0E0A\u0E34\u0E07\u0E25\u0E30\u0E42\u0E21\u0E1A \u0E40\
+      \u0E17\u0E04\u0E19\u0E34\u0E04\u0E01\u0E32\u0E23\u0E41\u0E1A\u0E48\u0E07\u0E41\
+      \u0E22\u0E01\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E40\u0E2D\u0E32\u0E0A\u0E19\u0E30\
+      \ \u0E01\u0E32\u0E23\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E41\u0E1A\u0E1A\
+      \r\n\u0E1E\u0E25\u0E27\u0E31\u0E15 \u0E1B\u0E31\u0E0D\u0E2B\u0E32\u0E40\u0E0A\
+      \u0E34\u0E07\u0E01\u0E32\u0E23\u0E08\u0E31\u0E14\u0E1B\u0E31\u0E0D\u0E2B\u0E32\
+      \u0E01\u0E23\u0E32\u0E1F \u0E1B\u0E31\u0E0D\u0E2B\u0E32\u0E41\u0E1A\u0E1A\u0E2A\
+      \u0E21\u0E1A\u0E39\u0E23\u0E13\u0E4C\u0E40\u0E2D\u0E47\u0E19\u0E1E\u0E35"
+    description_eng: "Design and analysis of algorithms; correctness of algorithms;\
+      \ complexity\r\nanalysis; greedy algorithms; divide-and-conquer techniques;\
+      \ dynamic programming;\r\ncombinatiorial problems; graph problems and NP-complete\
+      \ proplems."
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E27\u0E34\u0E40\u0E04\u0E23\u0E32\u0E30\u0E2B\u0E4C\
+      \u0E41\u0E25\u0E30\u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A\u0E02\u0E31\u0E49\u0E19\
+      \u0E15\u0E2D\u0E19\u0E27\u0E34\u0E18\u0E35"
+    name_eng: Algorithm Design and Analysis
+    prerequisites: [4, 5]
+    units: 3
+    years_available: 2
+  model: core.subject
+  pk: 16
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204322'
+    description: "\u0E44\u0E21\u0E42\u0E04\u0E23\u0E04\u0E2D\u0E19\u0E42\u0E17\u0E23\
+      \u0E25\u0E40\u0E25\u0E2D\u0E23\u0E4C\u0E41\u0E1A\u0E1A\u0E1D\u0E31\u0E07\u0E15\
+      \u0E31\u0E27 \u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E41\u0E1A\u0E1A\u0E1D\
+      \u0E31\u0E07\u0E15\u0E31\u0E27 \u0E23\u0E30\u0E1A\u0E1A\u0E1B\u0E0F\u0E34\u0E1A\
+      \u0E31\u0E15\u0E34\u0E01\u0E32\u0E23\r\n\u0E40\u0E27\u0E25\u0E32\u0E08\u0E23\
+      \u0E34\u0E07 \u0E01\u0E32\u0E23\u0E04\u0E33\u0E19\u0E27\u0E13\u0E1E\u0E25\u0E31\
+      \u0E07\u0E15\u0E48\u0E33 \u0E01\u0E32\u0E23\u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A\
+      \u0E23\u0E30\u0E1A\u0E1A\u0E40\u0E0A\u0E37\u0E48\u0E2D\u0E16\u0E37\u0E2D\u0E44\
+      \u0E14\u0E49 \u0E27\u0E34\u0E18\u0E35\u0E01\u0E32\u0E23\u0E2D\u0E2D\u0E01\u0E41\
+      \u0E1A\u0E1A\r\n\u0E40\u0E04\u0E23\u0E37\u0E48\u0E2D\u0E07\u0E21\u0E37\u0E2D\
+      \u0E40\u0E2A\u0E23\u0E34\u0E21 \u0E2B\u0E19\u0E48\u0E27\u0E22\u0E1B\u0E23\u0E30\
+      \u0E21\u0E27\u0E25\u0E1C\u0E25\u0E41\u0E1A\u0E1A\u0E1D\u0E31\u0E07\u0E15\u0E31\
+      \u0E27\u0E2B\u0E25\u0E32\u0E22\u0E2B\u0E19\u0E48\u0E27\u0E22 \u0E23\u0E30\u0E1A\
+      \u0E1A\u0E1D\u0E31\u0E07\u0E15\u0E31\u0E27\u0E1A\u0E19\u0E40\u0E04\u0E23\u0E37\
+      \u0E2D\u0E02\u0E48\u0E32\u0E22\r\n\u0E01\u0E32\u0E23\u0E40\u0E0A\u0E37\u0E48\
+      \u0E2D\u0E21\u0E15\u0E48\u0E2D\u0E41\u0E25\u0E30\u0E23\u0E30\u0E1A\u0E1A\u0E2A\
+      \u0E31\u0E0D\u0E0D\u0E32\u0E13\u0E1C\u0E2A\u0E21"
+    description_eng: "Embedded microcontrollers; embedded programs; real-time operating\r\
+      \nsystems; low-power computing; reliable system design; design methodologies;\r\
+      \ntool support; embedded multiprocessors; networked embedded systems;\r\ninterfacing\
+      \ and mixed-signal systems."
+    institution: 1
+    name: "\u0E23\u0E30\u0E1A\u0E1A\u0E1D\u0E31\u0E07\u0E15\u0E31\u0E27"
+    name_eng: Embedded System
+    prerequisites: []
+    units: 3
+    years_available: 3
+  model: core.subject
+  pk: 17
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204323'
+    description: "\u0E1E\u0E37\u0E49\u0E19\u0E10\u0E32\u0E19\u0E01\u0E32\u0E23\u0E2D\
+      \u0E2D\u0E01\u0E41\u0E1A\u0E1A\u0E23\u0E30\u0E1A\u0E1A\u0E44\u0E21\u0E42\u0E04\
+      \u0E23\u0E04\u0E2D\u0E19\u0E42\u0E17\u0E23\u0E25\u0E40\u0E25\u0E2D\u0E23\u0E4C\
+      \u0E41\u0E25\u0E30\u0E44\u0E21\u0E42\u0E04\u0E23\u0E42\u0E1B\u0E23\u0E40\u0E0B\
+      \u0E2A\u0E40\u0E0B\u0E2D\u0E23\u0E4C \u0E01\u0E32\u0E23\r\n\u0E42\u0E1B\u0E23\
+      \u0E41\u0E01\u0E23\u0E21\u0E20\u0E32\u0E29\u0E32\u0E41\u0E2D\u0E2A\u0E40\u0E0B\
+      \u0E21\u0E1A\u0E25\u0E35 \u0E14\u0E34\u0E08\u0E34\u0E17\u0E31\u0E25\u0E02\u0E32\
+      \u0E40\u0E02\u0E49\u0E32\u0E41\u0E25\u0E30\u0E02\u0E32\u0E2D\u0E2D\u0E01 \u0E27\
+      \u0E07\u0E08\u0E23\u0E40\u0E27\u0E25\u0E32 \u0E27\u0E07\u0E08\u0E23\u0E2A\u0E38\
+      \u0E19\u0E31\u0E02\u0E22\u0E32\u0E21 \u0E41\u0E25\u0E30 \u0E01\u0E32\u0E23\r\
+      \n\u0E02\u0E31\u0E14\u0E08\u0E31\u0E07\u0E2B\u0E27\u0E30 \u0E01\u0E32\u0E23\u0E42\
+      \u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E20\u0E32\u0E29\u0E32\u0E0A\u0E31\u0E49\
+      \u0E19\u0E2A\u0E39\u0E07 \u0E1A\u0E31\u0E2A\u0E02\u0E2D\u0E07\u0E44\u0E21\u0E42\
+      \u0E04\u0E23\u0E04\u0E2D\u0E19\u0E42\u0E17\u0E23\u0E25\u0E40\u0E25\u0E2D\u0E23\
+      \u0E4C\r\n\u0E41\u0E25\u0E30\u0E44\u0E21\u0E42\u0E04\u0E23\u0E42\u0E1B\u0E23\
+      \u0E40\u0E0B\u0E2A\u0E40\u0E0B\u0E2D\u0E23\u0E4C \u0E01\u0E32\u0E23\u0E08\u0E31\
+      \u0E14\u0E01\u0E32\u0E23\u0E2B\u0E19\u0E48\u0E27\u0E22\u0E04\u0E27\u0E32\u0E21\
+      \u0E08\u0E33 \u0E01\u0E32\u0E23\u0E40\u0E0A\u0E37\u0E48\u0E2D\u0E21\u0E15\u0E48\
+      \u0E2D\u0E01\u0E31\u0E1A\u0E2B\u0E19\u0E48\u0E27\u0E22\u0E40\u0E01\u0E47\u0E1A\
+      \u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25 \u0E01\u0E32\u0E23\r\n\u0E40\u0E0A\u0E37\
+      \u0E48\u0E2D\u0E21\u0E15\u0E48\u0E2D\u0E23\u0E30\u0E2B\u0E27\u0E48\u0E32\u0E07\
+      \u0E21\u0E19\u0E38\u0E29\u0E22\u0E4C\u0E41\u0E25\u0E30\u0E04\u0E2D\u0E21\u0E1E\
+      \u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C \u0E01\u0E32\u0E23\u0E2A\u0E37\u0E48\
+      \u0E2D\u0E2A\u0E32\u0E23 \u0E01\u0E32\u0E23\u0E40\u0E0A\u0E37\u0E48\u0E2D\u0E21\
+      \u0E15\u0E48\u0E2D\u0E41\u0E1A\u0E1A\u0E2D\u0E19\u0E32\u0E25\u0E2D\u0E01"
+    description_eng: "Basic of microcontroller and microprocessor system design; assembly\r\
+      \nlanguage programming; digital I/O; timer; watchdog and interrupt; high-level\r\
+      \nlanguage programming; microcontroller and microprocessor bus; memory\r\nmanagement;\
+      \ storage interfaces; human- computer interfaces; communication;\r\nhardware\
+      \ description language; analog interfaces."
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A\u0E23\u0E30\u0E1A\
+      \u0E1A\u0E44\u0E21\u0E42\u0E04\u0E23\u0E04\u0E2D\u0E19\u0E42\u0E17\u0E23\u0E25\
+      \u0E40\u0E25\u0E2D\u0E23\u0E4C\u0E41\u0E25\u0E30\u0E23\u0E30\u0E1A\u0E1A\u0E44\
+      \u0E21\u0E42\u0E04\u0E23\u0E42\u0E1B\u0E23\u0E40\u0E0B\u0E2A\u0E40\u0E0B\u0E2D\
+      \u0E23\u0E4C"
+    name_eng: Microprocessors and Microprocessor System Design
+    prerequisites: [11]
+    units: 3
+    years_available: 1
+  model: core.subject
+  pk: 18
+- fields:
+    available_in_first_semester: false
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204324'
+    description: "\u0E1B\u0E0F\u0E34\u0E1A\u0E31\u0E15\u0E34\u0E01\u0E32\u0E23\u0E40\
+      \u0E01\u0E35\u0E48\u0E22\u0E27\u0E01\u0E31\u0E1A\u0E40\u0E23\u0E37\u0E48\u0E2D\
+      \u0E07\u0E17\u0E35\u0E48\u0E40\u0E23\u0E35\u0E22\u0E19\u0E43\u0E19\u0E27\u0E34\
+      \u0E0A\u0E32 204225 \u0E41\u0E25\u0E30 204323"
+    description_eng: Laboratory works related to the topics in 204225 and 204323.
+    institution: 1
+    name: "\u0E1B\u0E0F\u0E34\u0E1A\u0E31\u0E15\u0E34\u0E01\u0E32\u0E23\u0E23\u0E30\
+      \u0E1A\u0E1A\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C"
+    name_eng: Computer System Laboratory
+    prerequisites: [10, 11]
+    units: 1
+    years_available: 3
+  model: core.subject
+  pk: 19
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: false
+    available_in_summer_semester: false
+    code: '204325'
+    description: "\u0E40\u0E04\u0E23\u0E37\u0E2D\u0E02\u0E48\u0E32\u0E22\u0E01\u0E32\
+      \u0E23\u0E2A\u0E37\u0E48\u0E2D\u0E2A\u0E32\u0E23\u0E02\u0E49\u0E2D\u0E21\u0E39\
+      \u0E25\u0E41\u0E25\u0E30\u0E21\u0E32\u0E15\u0E23\u0E10\u0E32\u0E19\u0E23\u0E30\
+      \u0E1A\u0E1A\u0E40\u0E1B\u0E34\u0E14 \u0E2A\u0E37\u0E48\u0E2D\u0E19\u0E33\u0E2A\
+      \u0E31\u0E0D\u0E0D\u0E32\u0E13\r\n\u0E01\u0E32\u0E23\u0E2A\u0E48\u0E07\u0E02\
+      \u0E49\u0E2D\u0E21\u0E39\u0E25\u0E43\u0E19\u0E0A\u0E31\u0E49\u0E19\u0E01\u0E32\
+      \u0E22\u0E20\u0E32\u0E1E \u0E01\u0E32\u0E23\u0E04\u0E27\u0E1A\u0E04\u0E38\u0E21\
+      \u0E43\u0E19\u0E23\u0E30\u0E14\u0E31\u0E1A\u0E40\u0E0A\u0E37\u0E48\u0E2D\u0E21\
+      \u0E42\u0E22\u0E07\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25 \u0E40\u0E17\u0E04\u0E42\
+      \u0E19\u0E42\u0E25\u0E22\u0E35\u0E02\u0E2D\u0E07\r\n\u0E40\u0E04\u0E23\u0E37\
+      \u0E2D\u0E02\u0E48\u0E32\u0E22\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\
+      \u0E2D\u0E23\u0E4C\u0E1A\u0E23\u0E34\u0E40\u0E27\u0E13\u0E40\u0E09\u0E1E\u0E32\
+      \u0E30\u0E17\u0E35\u0E48 \u0E41\u0E25\u0E30\u0E1A\u0E23\u0E34\u0E40\u0E27\u0E13\
+      \u0E01\u0E27\u0E49\u0E32\u0E07 \u0E2A\u0E16\u0E32\u0E1B\u0E31\u0E15\u0E22\u0E01\
+      \u0E23\u0E23\u0E21\u0E01\u0E32\u0E23\u0E2A\u0E37\u0E48\u0E2D\u0E2A\u0E32\u0E23\
+      \r\n\u0E41\u0E25\u0E30\u0E42\u0E1E\u0E23\u0E42\u0E17\u0E04\u0E2D\u0E25"
+    description_eng: "Data communication networks and open system standards; transmission\r\
+      \nmedia; data transmission in physical layer; data link controls; technologies\
+      \ of local\r\narea networks and wide area networks; communication architecture\
+      \ and protocols."
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E2A\u0E37\u0E48\u0E2D\u0E2A\u0E32\u0E23\u0E02\u0E49\
+      \u0E2D\u0E21\u0E39\u0E25\u0E41\u0E25\u0E30\u0E40\u0E04\u0E23\u0E37\u0E2D\u0E02\
+      \u0E48\u0E32\u0E22\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\
+      \u0E4C"
+    name_eng: Data Communication and Computer Networks
+    prerequisites: [11]
+    units: 3
+    years_available: 1
+  model: core.subject
+  pk: 20
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204332'
+    description: "\u0E41\u0E19\u0E27\u0E04\u0E34\u0E14\u0E1E\u0E37\u0E49\u0E19\u0E10\
+      \u0E32\u0E19\u0E02\u0E2D\u0E07\u0E23\u0E30\u0E1A\u0E1A\u0E1B\u0E0F\u0E34\u0E1A\
+      \u0E31\u0E15\u0E34\u0E01\u0E32\u0E23 \u0E01\u0E23\u0E30\u0E1A\u0E27\u0E19\u0E01\
+      \u0E32\u0E23\u0E41\u0E25\u0E30\u0E20\u0E32\u0E27\u0E30\u0E1E\u0E23\u0E49\u0E2D\
+      \u0E21\u0E01\u0E31\u0E19\r\n\u0E01\u0E32\u0E23\u0E08\u0E31\u0E14\u0E01\u0E32\
+      \u0E23 \u0E41\u0E25\u0E30\u0E01\u0E32\u0E23\u0E01\u0E33\u0E2B\u0E19\u0E14\u0E25\
+      \u0E33\u0E14\u0E31\u0E1A\u0E01\u0E23\u0E30\u0E1A\u0E27\u0E19\u0E01\u0E32\u0E23\
+      \ \u0E01\u0E32\u0E23\u0E08\u0E31\u0E14\u0E01\u0E32\u0E23\u0E23\u0E31\u0E1A\u0E40\
+      \u0E02\u0E49\u0E32/\u0E2A\u0E48\u0E07\u0E2D\u0E2D\u0E01 \u0E01\u0E32\u0E23\u0E08\
+      \u0E31\u0E14\u0E01\u0E32\u0E23\r\n\u0E2B\u0E19\u0E48\u0E27\u0E22\u0E04\u0E27\
+      \u0E32\u0E21\u0E08\u0E33 \u0E23\u0E30\u0E1A\u0E1A\u0E41\u0E1F\u0E49\u0E21 \u0E04\
+      \u0E27\u0E32\u0E21\u0E21\u0E31\u0E48\u0E19\u0E04\u0E07\u0E02\u0E2D\u0E07\u0E23\
+      \u0E30\u0E1A\u0E1A\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\
+      \u0E4C"
+    description_eng: "Basic concepts of operating systems; processes and concurrency;\
+      \ process\r\nmanagement and scheduling; input/output management; memory management;\
+      \ file\r\nsystems; computer systems security."
+    institution: 1
+    name: "\u0E23\u0E30\u0E1A\u0E1A\u0E1B\u0E0F\u0E34\u0E1A\u0E31\u0E15\u0E34\u0E01\
+      \u0E32\u0E23"
+    name_eng: Operating Systems
+    prerequisites: [11]
+    units: 3
+    years_available: 3
+  model: core.subject
+  pk: 21
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204341'
+    description: "\u0E41\u0E19\u0E27\u0E04\u0E34\u0E14\u0E14\u0E49\u0E32\u0E19\u0E01\
+      \u0E23\u0E30\u0E1A\u0E27\u0E19\u0E01\u0E32\u0E23\u0E0B\u0E2D\u0E1F\u0E15\u0E4C\
+      \u0E41\u0E27\u0E23\u0E4C \u0E15\u0E31\u0E27\u0E41\u0E1A\u0E1A\u0E02\u0E2D\u0E07\
+      \u0E01\u0E23\u0E30\u0E1A\u0E27\u0E19\u0E01\u0E32\u0E23\u0E0B\u0E2D\u0E1F\u0E15\
+      \u0E4C\u0E41\u0E27\u0E23\u0E4C\r\n\u0E01\u0E32\u0E23\u0E08\u0E31\u0E14\u0E01\
+      \u0E32\u0E23\u0E41\u0E25\u0E30\u0E01\u0E32\u0E23\u0E14\u0E36\u0E07\u0E02\u0E49\
+      \u0E2D\u0E21\u0E39\u0E25\u0E04\u0E27\u0E32\u0E21\u0E15\u0E49\u0E2D\u0E07\u0E01\
+      \u0E32\u0E23 \u0E40\u0E17\u0E04\u0E19\u0E34\u0E04\u0E01\u0E32\u0E23\u0E27\u0E34\
+      \u0E40\u0E04\u0E23\u0E32\u0E30\u0E2B\u0E4C \u0E41\u0E25\u0E30\u0E01\u0E32\u0E23\
+      \u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A\r\n\u0E40\u0E0A\u0E34\u0E07\u0E27\u0E31\
+      \u0E15\u0E16\u0E38 \u0E20\u0E32\u0E29\u0E32\u0E01\u0E32\u0E23\u0E42\u0E21\u0E40\
+      \u0E14\u0E25\u0E41\u0E1A\u0E1A\u0E22\u0E39\u0E40\u0E2D\u0E47\u0E21\u0E41\u0E2D\
+      \u0E25 \u0E2A\u0E16\u0E32\u0E1B\u0E31\u0E15\u0E22\u0E01\u0E23\u0E23\u0E21\u0E0B\
+      \u0E2D\u0E1F\u0E15\u0E4C\u0E41\u0E27\u0E23\u0E4C \u0E01\u0E32\u0E23\u0E2D\u0E2D\
+      \u0E01\u0E41\u0E1A\u0E1A\u0E41\u0E1A\u0E1A\u0E23\u0E39\u0E1B\r\n\u0E40\u0E17\
+      \u0E04\u0E19\u0E34\u0E04\u0E01\u0E32\u0E23\u0E15\u0E23\u0E27\u0E08\u0E2A\u0E2D\
+      \u0E1A\u0E0B\u0E2D\u0E1F\u0E15\u0E4C\u0E41\u0E27\u0E23\u0E4C \u0E01\u0E32\u0E23\
+      \u0E08\u0E31\u0E14\u0E01\u0E32\u0E23\u0E42\u0E04\u0E23\u0E07\u0E01\u0E32\u0E23\
+      \u0E0B\u0E2D\u0E1F\u0E15\u0E4C\u0E41\u0E27\u0E23\u0E4C"
+    description_eng: "Software processes concepts; software process models; requirement\r\
+      \nmanagement and elicitation, object-oriented analysis and design techniques;\r\
+      \nunified modeling language; software architecture design; patterns; software\r\
+      \nconstruction techniques; software testing techniques; software project\r\n\
+      management."
+    institution: 1
+    name: "\u0E27\u0E34\u0E28\u0E27\u0E01\u0E23\u0E23\u0E21\u0E0B\u0E2D\u0E1F\u0E15\
+      \u0E4C\u0E41\u0E27\u0E23\u0E4C"
+    name_eng: Software Engineering
+    prerequisites: [5]
+    units: 3
+    years_available: 3
+  model: core.subject
+  pk: 22
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204342'
+    description: "\u0E2B\u0E25\u0E31\u0E01\u0E01\u0E32\u0E23\u0E14\u0E49\u0E32\u0E19\
+      \u0E01\u0E23\u0E30\u0E1A\u0E27\u0E19\u0E01\u0E32\u0E23\u0E0B\u0E2D\u0E1F\u0E15\
+      \u0E4C\u0E41\u0E27\u0E23\u0E4C \u0E01\u0E32\u0E23\u0E1B\u0E23\u0E31\u0E1A\u0E1B\
+      \u0E23\u0E38\u0E07\u0E01\u0E23\u0E30\u0E1A\u0E27\u0E19\u0E01\u0E32\u0E23\u0E0B\
+      \u0E2D\u0E1F\u0E15\u0E4C\u0E41\u0E27\u0E23\u0E4C\r\n\u0E41\u0E25\u0E30\u0E42\
+      \u0E21\u0E40\u0E14\u0E25\u0E04\u0E38\u0E13\u0E20\u0E32\u0E1E \u0E42\u0E21\u0E40\
+      \u0E14\u0E25\u0E02\u0E2D\u0E07\u0E01\u0E23\u0E30\u0E1A\u0E27\u0E19\u0E01\u0E32\
+      \u0E23\u0E0B\u0E2D\u0E1F\u0E15\u0E4C\u0E41\u0E27\u0E23\u0E4C \u0E01\u0E32\u0E23\
+      \u0E08\u0E31\u0E14\u0E01\u0E32\u0E23\u0E41\u0E25\u0E30\u0E01\u0E32\u0E23\u0E23\
+      \u0E27\u0E1A\u0E23\u0E27\u0E21\r\n\u0E04\u0E27\u0E32\u0E21\u0E15\u0E49\u0E2D\
+      \u0E07\u0E01\u0E32\u0E23\u0E01\u0E32\u0E23\u0E08\u0E31\u0E14\u0E01\u0E32\u0E23\
+      \ \u0E42\u0E04\u0E23\u0E07\u0E01\u0E32\u0E23\u0E0B\u0E2D\u0E1F\u0E15\u0E4C\u0E41\
+      \u0E27\u0E23\u0E4C \u0E01\u0E32\u0E23\u0E1B\u0E23\u0E30\u0E40\u0E21\u0E34\u0E19\
+      \ \u0E01\u0E32\u0E23\u0E27\u0E32\u0E07\u0E41\u0E1C\u0E19 \u0E17\u0E35\u0E21\u0E07\
+      \u0E32\u0E19\r\n\u0E41\u0E25\u0E30\u0E01\u0E32\u0E23\u0E21\u0E2D\u0E1A\u0E1A\
+      \u0E17\u0E1A\u0E32\u0E17 \u0E01\u0E32\u0E23\u0E1B\u0E23\u0E30\u0E01\u0E31\u0E19\
+      \u0E04\u0E38\u0E13\u0E20\u0E32\u0E1E\u0E0B\u0E2D\u0E1F\u0E15\u0E4C\u0E41\u0E27\
+      \u0E23\u0E4C \u0E40\u0E17\u0E04\u0E19\u0E34\u0E04\u0E01\u0E32\u0E23\u0E15\u0E23\
+      \u0E27\u0E08\u0E2A\u0E2D\u0E1A \u0E01\u0E32\u0E23\r\n\u0E1A\u0E23\u0E34\u0E2B\
+      \u0E32\u0E23\u0E01\u0E32\u0E23\u0E08\u0E31\u0E14\u0E40\u0E01\u0E47\u0E1A"
+    description_eng: "Software process concepts; software process improvement and\
+      \ quality\r\nmodels;software process models; requirement management and elicitation;\r\
+      \nsoftware project mangement : estimation, planning, team organization and roles;\r\
+      \nsoftware quality assurance; inspection techniques; software configuration\r\
+      \nmanagement."
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E08\u0E31\u0E14\u0E01\u0E32\u0E23\u0E01\u0E32\u0E23\
+      \u0E1E\u0E31\u0E12\u0E19\u0E32\u0E0B\u0E2D\u0E1F\u0E15\u0E4C\u0E41\u0E27\u0E23\
+      \u0E4C"
+    name_eng: Managing Software Development
+    prerequisites: [22]
+    units: 3
+    years_available: 3
+  model: core.subject
+  pk: 23
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204351'
+    description: "\u0E25\u0E31\u0E01\u0E29\u0E13\u0E30\u0E17\u0E31\u0E48\u0E27\u0E44\
+      \u0E1B\u0E02\u0E2D\u0E07\u0E23\u0E30\u0E1A\u0E1A\u0E2A\u0E32\u0E23\u0E2A\u0E19\
+      \u0E40\u0E17\u0E28 \u0E40\u0E17\u0E04\u0E19\u0E34\u0E04\u0E01\u0E32\u0E23\u0E40\
+      \u0E01\u0E47\u0E1A\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25 \u0E01\u0E32\u0E23\u0E1A\
+      \u0E23\u0E34\u0E01\u0E32\u0E23\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25\r\n\u0E41\
+      \u0E25\u0E30\u0E01\u0E32\u0E23\u0E04\u0E49\u0E19\u0E2B\u0E32\u0E02\u0E49\u0E2D\
+      \u0E21\u0E39\u0E25 \u0E01\u0E32\u0E23\u0E08\u0E31\u0E14\u0E23\u0E30\u0E1A\u0E1A\
+      \u0E41\u0E1F\u0E49\u0E21\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25 \u0E40\u0E17\u0E04\
+      \u0E19\u0E34\u0E04\u0E01\u0E32\u0E23\u0E40\u0E02\u0E49\u0E32\u0E16\u0E36\u0E07\
+      \u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25\u0E41\u0E1A\u0E1A\u0E15\u0E48\u0E32\u0E07\
+      \u0E46\r\n\u0E2B\u0E25\u0E31\u0E01\u0E01\u0E32\u0E23\u0E02\u0E2D\u0E07\u0E23\
+      \u0E30\u0E1A\u0E1A\u0E10\u0E32\u0E19\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25\u0E41\
+      \u0E25\u0E30\u0E01\u0E32\u0E23\u0E08\u0E31\u0E14\u0E01\u0E32\u0E23\u0E10\u0E32\
+      \u0E19\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25 \u0E10\u0E32\u0E19\u0E02\u0E49\u0E2D\
+      \u0E21\u0E39\u0E25\u0E41\u0E1A\u0E1A\u0E25\u0E33\u0E14\u0E31\u0E1A\u0E0A\u0E31\
+      \u0E49\u0E19\r\n\u0E41\u0E1A\u0E1A\u0E40\u0E04\u0E23\u0E37\u0E2D\u0E02\u0E48\
+      \u0E32\u0E22 \u0E41\u0E1A\u0E1A\u0E40\u0E0A\u0E34\u0E07\u0E2A\u0E31\u0E21\u0E1E\
+      \u0E31\u0E19\u0E18\u0E4C \u0E41\u0E25\u0E30\u0E41\u0E1A\u0E1A\u0E40\u0E0A\u0E34\
+      \u0E07\u0E27\u0E31\u0E15\u0E16\u0E38 \u0E01\u0E32\u0E23\u0E1B\u0E23\u0E30\u0E22\
+      \u0E38\u0E01\u0E15\u0E4C\u0E43\u0E0A\u0E49\u0E07\u0E32\u0E19\u0E23\u0E30\u0E1A\
+      \u0E1A\r\n\u0E10\u0E32\u0E19\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25"
+    description_eng: "General characteristics of information systems; data storage\
+      \ techniques;\r\ndata manipulation and searching services; file management;\
+      \ information retrieval\r\ntechniques; principles of database systems and database\
+      \ management; database\r\nmodeling: hierachical model, network model, relational\
+      \ model, and objectoriented\r\nmodel; applications of database systems."
+    institution: 1
+    name: "\u0E23\u0E30\u0E1A\u0E1A\u0E10\u0E32\u0E19\u0E02\u0E49\u0E2D\u0E21\u0E39\
+      \u0E25"
+    name_eng: Database Systems
+    prerequisites: [5]
+    units: 3
+    years_available: 3
+  model: core.subject
+  pk: 24
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204352'
+    description: "\u0E01\u0E0E\u0E2B\u0E21\u0E32\u0E22\u0E41\u0E25\u0E30\u0E08\u0E23\
+      \u0E34\u0E22\u0E18\u0E23\u0E23\u0E21\u0E17\u0E35\u0E48\u0E40\u0E01\u0E35\u0E22\
+      \u0E27\u0E02\u0E49\u0E2D\u0E07\u0E01\u0E31\u0E1A\u0E04\u0E2D\u0E21\u0E1E\u0E34\
+      \u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C\u0E41\u0E25\u0E30\u0E40\u0E17\u0E04\u0E42\
+      \u0E19\u0E42\u0E25\u0E22\u0E35\r\n\u0E2A\u0E32\u0E23\u0E2A\u0E19\u0E40\u0E17\
+      \u0E28 \u0E01\u0E32\u0E23\u0E1E\u0E32\u0E13\u0E34\u0E0A\u0E22\u0E4C\u0E41\u0E25\
+      \u0E30\u0E18\u0E38\u0E23\u0E01\u0E23\u0E23\u0E21\u0E2D\u0E34\u0E40\u0E25\u0E47\
+      \u0E04\u0E17\u0E23\u0E2D\u0E17\u0E34\u0E04\u0E2A\u0E4C \u0E01\u0E32\u0E23\u0E43\
+      \u0E0A\u0E49\u0E07\u0E32\u0E19\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\
+      \u0E2D\u0E23\u0E4C\u0E1C\u0E34\u0E14\r\n\u0E27\u0E31\u0E15\u0E16\u0E38\u0E1B\
+      \u0E23\u0E30\u0E2A\u0E07\u0E04\u0E4C \u0E40\u0E23\u0E37\u0E48\u0E2D\u0E07\u0E40\
+      \u0E01\u0E35\u0E48\u0E22\u0E27\u0E01\u0E31\u0E1A\u0E04\u0E27\u0E32\u0E21\u0E40\
+      \u0E17\u0E48\u0E32\u0E40\u0E17\u0E35\u0E22\u0E21\u0E01\u0E31\u0E19\u0E17\u0E32\
+      \u0E07\u0E2A\u0E31\u0E07\u0E04\u0E21\u0E43\u0E19\u0E14\u0E49\u0E32\u0E19\u0E2A\
+      \u0E32\u0E23\u0E2A\u0E19\u0E40\u0E17\u0E28 \u0E40\u0E2A\u0E23\u0E35\u0E20\u0E32\
+      \u0E1E\r\n\u0E43\u0E19\u0E01\u0E32\u0E23\u0E1E\u0E39\u0E14 \u0E02\u0E49\u0E2D\
+      \u0E21\u0E39\u0E25\u0E02\u0E48\u0E32\u0E27\u0E2A\u0E32\u0E23\u0E2A\u0E48\u0E27\
+      \u0E19\u0E1A\u0E38\u0E04\u0E04\u0E25 \u0E04\u0E27\u0E32\u0E21\u0E40\u0E2A\u0E35\
+      \u0E48\u0E22\u0E07\u0E43\u0E19\u0E23\u0E30\u0E1A\u0E1A\u0E04\u0E2D\u0E21\u0E1E\
+      \u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C \u0E17\u0E23\u0E31\u0E1E\u0E22\u0E4C\
+      \u0E2A\u0E34\u0E19\r\n\u0E17\u0E32\u0E07\u0E1B\u0E31\u0E0D\u0E0D\u0E32"
+    description_eng: "Laws and ethical issues related to computer and information\
+      \ technology;\r\ntrading and commerce issues; computer abuse; social-justice\
+      \ issues; free speech;\r\ninformation privacy; risk in computer systems; intellectual\
+      \ properties."
+    institution: 1
+    name: "\u0E01\u0E0E\u0E2B\u0E21\u0E32\u0E22\u0E41\u0E25\u0E30\u0E08\u0E23\u0E34\
+      \u0E22\u0E18\u0E23\u0E23\u0E21\u0E17\u0E32\u0E07\u0E40\u0E17\u0E04\u0E42\u0E19\
+      \u0E42\u0E25\u0E22\u0E35\u0E2A\u0E32\u0E23\u0E2A\u0E19\u0E40\u0E17\u0E28"
+    name_eng: Laws and Ethics in Information Technology
+    prerequisites: []
+    units: 3
+    years_available: 3
+  model: core.subject
+  pk: 25
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204371'
+    description: "\u0E01\u0E32\u0E23\u0E41\u0E1B\u0E25\u0E07\u0E41\u0E1A\u0E1A\u0E40\
+      \u0E0A\u0E34\u0E07\u0E40\u0E2A\u0E49\u0E19 \u0E01\u0E32\u0E23\u0E41\u0E1B\u0E25\
+      \u0E07\u0E1F\u0E39\u0E40\u0E23\u0E35\u0E22\u0E23\u0E4C \u0E01\u0E32\u0E23\u0E41\
+      \u0E1B\u0E25\u0E07\u0E25\u0E32\u0E1B\u0E25\u0E32\u0E0A \u0E01\u0E32\u0E23\u0E41\
+      \u0E1B\u0E25\u0E07\u0E0B\u0E35\r\n\u0E01\u0E32\u0E23\u0E41\u0E1B\u0E25\u0E07\
+      \u0E40\u0E27\u0E1E\u0E40\u0E25\u0E47\u0E15 \u0E41\u0E25\u0E30\u0E01\u0E32\u0E23\
+      \u0E1B\u0E23\u0E30\u0E22\u0E38\u0E01\u0E15\u0E4C"
+    description_eng: "Linear transform; fourier transformation; laplace transformation;\r\
+      \nz transformation; wavelet transformation and applications."
+    institution: 1
+    name: "\u0E40\u0E17\u0E04\u0E19\u0E34\u0E04\u0E01\u0E32\u0E23\u0E41\u0E1B\u0E25\
+      \u0E07\u0E43\u0E19\u0E01\u0E32\u0E23\u0E1B\u0E23\u0E30\u0E21\u0E27\u0E25\u0E1C\
+      \u0E25\u0E2A\u0E31\u0E0D\u0E0D\u0E32\u0E13"
+    name_eng: Transform Techniques in Signal Processing
+    prerequisites: []
+    units: 3
+    years_available: 3
+  model: core.subject
+  pk: 26
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204411'
+    description: "\u0E15\u0E23\u0E23\u0E01\u0E28\u0E32\u0E2A\u0E15\u0E23\u0E4C\u0E40\
+      \u0E0A\u0E34\u0E07\u0E2A\u0E31\u0E0D\u0E25\u0E31\u0E01\u0E29\u0E13\u0E4C \u0E01\
+      \u0E32\u0E23\u0E27\u0E34\u0E40\u0E04\u0E23\u0E32\u0E30\u0E2B\u0E4C\u0E40\u0E0A\
+      \u0E34\u0E07\u0E28\u0E31\u0E1E\u0E17\u0E4C\u0E41\u0E25\u0E30\u0E40\u0E0A\u0E34\
+      \u0E07\u0E04\u0E27\u0E32\u0E21\u0E2B\u0E21\u0E32\u0E22\u0E02\u0E2D\u0E07\r\n\
+      \u0E1E\u0E08\u0E19\u0E4C\u0E41\u0E25\u0E30\u0E1B\u0E23\u0E30\u0E42\u0E22\u0E04\
+      \ \u0E01\u0E32\u0E23\u0E43\u0E2B\u0E49\u0E40\u0E2B\u0E15\u0E38\u0E1C\u0E25\u0E41\
+      \u0E25\u0E30\u0E01\u0E32\u0E23\u0E1E\u0E34\u0E2A\u0E39\u0E08\u0E19\u0E4C\u0E17\
+      \u0E24\u0E29\u0E0E\u0E35 \u0E01\u0E32\u0E23\u0E04\u0E33\u0E19\u0E27\u0E13\u0E40\
+      \u0E0A\u0E34\u0E07\u0E2A\u0E31\u0E0D\u0E25\u0E31\u0E01\u0E29\u0E13\u0E4C\u0E14\
+      \u0E49\u0E27\u0E22\r\n\u0E01\u0E32\u0E23\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\
+      \u0E21\u0E40\u0E0A\u0E34\u0E07\u0E1F\u0E31\u0E07\u0E01\u0E4C\u0E0A\u0E31\u0E19\
+      \u0E41\u0E25\u0E30\u0E01\u0E32\u0E23\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\
+      \u0E40\u0E0A\u0E34\u0E07\u0E15\u0E23\u0E23\u0E01\u0E30"
+    description_eng: "Symbolic logic; syntax and semantic analyses of terms and sentences;\r\
+      \nreasoning and theorem proving; symbolic computation with functional\r\nprogramming\
+      \ and logic programming."
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E04\u0E33\u0E19\u0E27\u0E13\u0E40\u0E0A\u0E34\u0E07\
+      \u0E2A\u0E31\u0E0D\u0E25\u0E31\u0E01\u0E29\u0E13\u0E4C"
+    name_eng: Symbolic Computation
+    prerequisites: [6]
+    units: 3
+    years_available: 4
+  model: core.subject
+  pk: 27
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204421'
+    description: "\u0E0A\u0E38\u0E14\u0E42\u0E1E\u0E23\u0E42\u0E17\u0E04\u0E2D\u0E25\
+      \u0E17\u0E35\u0E0B\u0E35\u0E1E\u0E35/\u0E44\u0E2D\u0E1E\u0E35 \u0E01\u0E32\u0E23\
+      \u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A\u0E40\u0E25\u0E02\u0E17\u0E35\u0E48\u0E2D\
+      \u0E22\u0E39\u0E48\u0E44\u0E2D\u0E1E\u0E35 \u0E42\u0E1E\u0E23\u0E42\u0E17\u0E04\
+      \u0E2D\u0E25\r\n\u0E01\u0E32\u0E23\u0E08\u0E31\u0E14\u0E40\u0E2A\u0E49\u0E19\
+      \u0E17\u0E32\u0E07 \u0E01\u0E32\u0E23\u0E40\u0E0A\u0E37\u0E48\u0E2D\u0E21\u0E42\
+      \u0E22\u0E07\u0E23\u0E30\u0E2B\u0E27\u0E48\u0E32\u0E07\u0E40\u0E04\u0E23\u0E37\
+      \u0E2D\u0E02\u0E48\u0E32\u0E22\u0E14\u0E49\u0E27\u0E22\u0E17\u0E35\u0E0B\u0E35\
+      \u0E1E\u0E35/\u0E44\u0E2D\u0E1E\u0E35 \u0E01\u0E32\u0E23\u0E08\u0E31\u0E14\u0E01\
+      \u0E32\u0E23\u0E40\u0E04\u0E23\u0E37\u0E2D\u0E02\u0E48\u0E32\u0E22\r\n\u0E04\
+      \u0E27\u0E32\u0E21\u0E21\u0E31\u0E48\u0E19\u0E04\u0E07\u0E02\u0E2D\u0E07\u0E40\
+      \u0E04\u0E23\u0E37\u0E2D\u0E02\u0E48\u0E32\u0E22 \u0E40\u0E2D\u0E47\u0E21\u0E1E\
+      \u0E35\u0E41\u0E2D\u0E25\u0E40\u0E2D\u0E2A \u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\
+      \u0E21\u0E1B\u0E23\u0E30\u0E22\u0E38\u0E01\u0E15\u0E4C\u0E14\u0E49\u0E32\u0E19\
+      \u0E40\u0E04\u0E23\u0E37\u0E2D\u0E02\u0E48\u0E32\u0E22"
+    description_eng: "TCP/IP protocol suite; IP address design; routing protocols;\r\
+      \ninternetworking with TCP/IP; network management; network security; multi-protocal\r\
+      \nfable switching; network applications."
+    institution: 1
+    name: "\u0E40\u0E04\u0E23\u0E37\u0E2D\u0E02\u0E48\u0E32\u0E22\u0E04\u0E2D\u0E21\
+      \u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C"
+    name_eng: Computer Networks
+    prerequisites: [20]
+    units: 3
+    years_available: 4
+  model: core.subject
+  pk: 28
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204422'
+    description: "\u0E1E\u0E37\u0E49\u0E19\u0E10\u0E32\u0E19 : 204421 \u0E2B\u0E23\
+      \u0E37\u0E2D\u0E40\u0E23\u0E35\u0E22\u0E19\u0E1E\u0E23\u0E49\u0E2D\u0E21\u0E01\
+      \u0E31\u0E19\r\n\u0E1B\u0E0F\u0E34\u0E1A\u0E31\u0E15\u0E34\u0E01\u0E32\u0E23\
+      \u0E40\u0E01\u0E35\u0E48\u0E22\u0E27\u0E01\u0E31\u0E1A\u0E27\u0E34\u0E0A\u0E32\
+      \ 204421"
+    description_eng: Laboratory for 204421.
+    institution: 1
+    name: "\u0E1B\u0E0F\u0E34\u0E1A\u0E31\u0E15\u0E34\u0E01\u0E32\u0E23\u0E2A\u0E37\
+      \u0E48\u0E2D\u0E2A\u0E32\u0E23\u0E41\u0E25\u0E30\u0E40\u0E04\u0E23\u0E37\u0E2D\
+      \u0E02\u0E48\u0E32\u0E22\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\
+      \u0E23\u0E4C"
+    name_eng: Computer Communication and Network Laboratory
+    prerequisites: [28]
+    units: 1
+    years_available: 4
+  model: core.subject
+  pk: 29
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204424'
+    description: "\u0E1E\u0E37\u0E49\u0E19\u0E10\u0E32\u0E19\u0E01\u0E32\u0E23\u0E2D\
+      \u0E2D\u0E01\u0E41\u0E1A\u0E1A\u0E14\u0E34\u0E08\u0E34\u0E17\u0E31\u0E25\u0E2D\
+      \u0E31\u0E15\u0E42\u0E19\u0E21\u0E31\u0E15\u0E34 \u0E40\u0E17\u0E04\u0E19\u0E34\
+      \u0E04\u0E41\u0E25\u0E30\u0E40\u0E04\u0E23\u0E37\u0E48\u0E2D\u0E07\u0E21\u0E37\
+      \u0E2D\u0E17\u0E32\u0E07\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\
+      \u0E23\u0E4C\r\n\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E0A\u0E48\u0E27\u0E22\u0E01\
+      \u0E32\u0E23\u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A\u0E23\u0E30\u0E1A\u0E1A\u0E14\
+      \u0E34\u0E08\u0E34\u0E17\u0E31\u0E25 \u0E20\u0E32\u0E29\u0E32\u0E2A\u0E32\u0E18\
+      \u0E22\u0E32\u0E22\u0E2E\u0E32\u0E23\u0E4C\u0E14\u0E41\u0E27\u0E23\u0E4C \u0E04\
+      \u0E2D\u0E21\u0E44\u0E1E\u0E40\u0E25\u0E2D\u0E23\u0E4C\u0E2E\u0E32\u0E23\u0E4C\
+      \u0E14\u0E41\u0E27\u0E23\u0E4C\r\n\u0E01\u0E32\u0E23\u0E15\u0E23\u0E27\u0E08\
+      \u0E2A\u0E2D\u0E1A\u0E41\u0E25\u0E30\u0E08\u0E33\u0E25\u0E2D\u0E07\u0E2A\u0E16\
+      \u0E32\u0E1B\u0E31\u0E15\u0E22\u0E01\u0E23\u0E23\u0E21\u0E04\u0E2D\u0E21\u0E1E\
+      \u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C \u0E01\u0E32\u0E23\u0E08\u0E33\u0E25\
+      \u0E2D\u0E07\u0E27\u0E07\u0E08\u0E23\u0E15\u0E23\u0E23\u0E01\u0E02\u0E2D\u0E07\
+      \r\n\u0E02\u0E31\u0E49\u0E19\u0E15\u0E2D\u0E19\u0E27\u0E34\u0E18\u0E35 \u0E42\
+      \u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E0A\u0E48\u0E27\u0E22\u0E01\u0E32\u0E23\
+      \u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A \u0E01\u0E32\u0E23\u0E41\u0E1A\u0E48\u0E07\
+      \u0E41\u0E22\u0E01 \u0E01\u0E32\u0E23\u0E27\u0E32\u0E07\u0E15\u0E33\u0E41\u0E2B\
+      \u0E19\u0E48\u0E07\u0E41\u0E25\u0E30\u0E01\u0E32\u0E23\u0E08\u0E31\u0E14\r\n\
+      \u0E40\u0E2A\u0E49\u0E19\u0E17\u0E32\u0E07\u0E02\u0E2D\u0E07\u0E27\u0E07\u0E08\
+      \u0E23\u0E14\u0E34\u0E08\u0E34\u0E17\u0E31\u0E25"
+    description_eng: "Basics of digital design automation; techniques and tools for\
+      \ digital\r\ndesign automation; hardware descriptive language; hardware compiler;\
+      \ computer\r\narchitecture testing and simulating; logic circuit simulation;\
+      \ automation programs;\r\npartitioning; component placing and routing of digital\
+      \ circuits."
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A\u0E14\u0E34\u0E08\
+      \u0E34\u0E17\u0E31\u0E25\u0E2D\u0E31\u0E15\u0E42\u0E19\u0E21\u0E31\u0E15\u0E34"
+    name_eng: Digital Design Automation
+    prerequisites: [8]
+    units: 3
+    years_available: 4
+  model: core.subject
+  pk: 30
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204425'
+    description: "\u0E17\u0E35\u0E0B\u0E35\u0E1E\u0E35/\u0E44\u0E2D\u0E1E\u0E35 \u0E41\
+      \u0E1A\u0E1A\u0E08\u0E33\u0E25\u0E2D\u0E07\u0E23\u0E31\u0E1A-\u0E43\u0E2B\u0E49\
+      \u0E1A\u0E23\u0E34\u0E01\u0E32\u0E23 \u0E01\u0E32\u0E23\u0E2A\u0E37\u0E48\u0E2D\
+      \u0E2A\u0E32\u0E23\u0E23\u0E30\u0E2B\u0E27\u0E48\u0E32\u0E07\u0E01\u0E23\u0E30\
+      \u0E1A\u0E27\u0E19\u0E01\u0E32\u0E23\r\n\u0E01\u0E32\u0E23\u0E15\u0E48\u0E2D\
+      \u0E1B\u0E23\u0E30\u0E2A\u0E32\u0E19\u0E0B\u0E47\u0E2D\u0E01\u0E40\u0E01\u0E47\
+      \u0E15\u0E17\u0E35\u0E0B\u0E35\u0E1E\u0E35\u0E41\u0E25\u0E30\u0E22\u0E39\u0E14\
+      \u0E35\u0E1E\u0E35\u0E0B\u0E47\u0E2D\u0E01\u0E40\u0E01\u0E47\u0E15 \u0E01\u0E23\
+      \u0E30\u0E1A\u0E27\u0E19\u0E01\u0E32\u0E23\u0E14\u0E35\u0E21\u0E2D\u0E19 \u0E23\
+      \u0E2D\u0E27\u0E4C\u0E0B\u0E47\u0E2D\u0E01\u0E40\u0E01\u0E47\u0E15\r\n\u0E02\
+      \u0E31\u0E49\u0E19\u0E15\u0E2D\u0E19\u0E27\u0E34\u0E18\u0E35\u0E2A\u0E33\u0E2B\
+      \u0E23\u0E31\u0E1A\u0E1C\u0E39\u0E49\u0E23\u0E31\u0E1A\u0E41\u0E25\u0E30\u0E1C\
+      \u0E39\u0E49\u0E43\u0E2B\u0E49\u0E1A\u0E23\u0E34\u0E01\u0E32\u0E23 \u0E42\u0E1B\
+      \u0E23\u0E41\u0E01\u0E23\u0E21\u0E02\u0E31\u0E1A\u0E2D\u0E38\u0E1B\u0E01\u0E23\
+      \u0E13\u0E4C\u0E40\u0E04\u0E23\u0E37\u0E2D\u0E02\u0E48\u0E32\u0E22"
+    description_eng: "TCP/IP; client-server model; interprocess communications; TCP\r\
+      \nand UDP socket interfaces; daemon process; raw sockets; algorithm for\r\n\
+      client and server; network device driver."
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E40\u0E04\
+      \u0E23\u0E37\u0E2D\u0E02\u0E48\u0E32\u0E22"
+    name_eng: Network Programming
+    prerequisites: [20]
+    units: 3
+    years_available: 4
+  model: core.subject
+  pk: 31
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204426'
+    description: "\u0E42\u0E1E\u0E23\u0E42\u0E17\u0E04\u0E2D\u0E25\u0E01\u0E32\u0E23\
+      \u0E08\u0E31\u0E14\u0E40\u0E2A\u0E49\u0E19\u0E17\u0E32\u0E07 \u0E01\u0E32\u0E23\
+      \u0E15\u0E31\u0E49\u0E07\u0E04\u0E48\u0E32\u0E01\u0E32\u0E23\u0E04\u0E27\u0E1A\
+      \u0E04\u0E38\u0E21\u0E01\u0E32\u0E23\u0E40\u0E02\u0E49\u0E32\u0E16\u0E36\u0E07\
+      \ \u0E01\u0E32\u0E23\u0E2D\u0E2D\u0E01\r\n\u0E41\u0E1A\u0E1A\u0E41\u0E25\u0E30\
+      \u0E01\u0E32\u0E23\u0E15\u0E31\u0E49\u0E07\u0E04\u0E48\u0E32\u0E23\u0E30\u0E1A\
+      \u0E1A\u0E41\u0E25\u0E19\u0E40\u0E2A\u0E21\u0E37\u0E2D\u0E19 \u0E23\u0E30\u0E1A\
+      \u0E1A\u0E01\u0E32\u0E23\u0E2A\u0E27\u0E34\u0E15\u0E0A\u0E4C \u0E01\u0E32\u0E23\
+      \u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A\u0E23\u0E30\u0E1A\u0E1A\r\n\u0E40\u0E04\
+      \u0E23\u0E37\u0E2D\u0E02\u0E48\u0E32\u0E22\u0E1A\u0E23\u0E34\u0E40\u0E27\u0E13\
+      \u0E01\u0E27\u0E49\u0E32\u0E07"
+    description_eng: "Routing protocols; access control lists; design and configuration\
+      \ of\r\nvirtual LANs; switching systems; wide area network design."
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E1B\u0E23\u0E31\u0E1A\u0E41\u0E15\u0E48\u0E07\u0E40\
+      \u0E04\u0E23\u0E37\u0E2D\u0E02\u0E48\u0E32\u0E22"
+    name_eng: Network Configuration
+    prerequisites: [29]
+    units: 3
+    years_available: 4
+  model: core.subject
+  pk: 32
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204331'
+    description: "\u0E2B\u0E25\u0E31\u0E01\u0E1E\u0E37\u0E49\u0E19\u0E10\u0E32\u0E19\
+      \u0E02\u0E2D\u0E07\u0E23\u0E30\u0E1A\u0E1A\u0E01\u0E32\u0E23\u0E42\u0E1B\u0E23\
+      \u0E41\u0E01\u0E23\u0E21 \u0E04\u0E27\u0E32\u0E21\u0E2A\u0E31\u0E21\u0E1E\u0E31\
+      \u0E19\u0E18\u0E4C\u0E23\u0E30\u0E2B\u0E27\u0E48\u0E32\u0E07\u0E0B\u0E2D\u0E1F\
+      \u0E15\u0E4C\u0E41\u0E27\u0E23\u0E4C\r\n\u0E23\u0E30\u0E1A\u0E1A\u0E01\u0E31\
+      \u0E1A\u0E2A\u0E16\u0E32\u0E1B\u0E31\u0E15\u0E22\u0E01\u0E23\u0E23\u0E21\u0E02\
+      \u0E2D\u0E07\u0E40\u0E04\u0E23\u0E37\u0E48\u0E2D\u0E07 \u0E2B\u0E25\u0E31\u0E01\
+      \u0E01\u0E32\u0E23\u0E17\u0E33\u0E07\u0E32\u0E19\u0E41\u0E25\u0E30\u0E01\u0E32\
+      \u0E23\u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A\u0E41\u0E2D\u0E2A\u0E40\u0E0B\u0E21\
+      \u0E40\u0E1A\u0E25\u0E2D\u0E23\u0E4C\r\n\u0E15\u0E31\u0E27\u0E1A\u0E23\u0E23\
+      \u0E08\u0E38\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21 \u0E15\u0E31\u0E27\u0E40\
+      \u0E0A\u0E37\u0E48\u0E2D\u0E21\u0E42\u0E22\u0E07 \u0E41\u0E25\u0E30\u0E15\u0E31\
+      \u0E27\u0E1B\u0E23\u0E30\u0E21\u0E27\u0E25\u0E1C\u0E25\u0E41\u0E21\u0E42\u0E04\
+      \u0E23 \u0E04\u0E27\u0E32\u0E21\u0E23\u0E39\u0E49\u0E40\u0E1A\u0E37\u0E49\u0E2D\
+      \u0E07\u0E15\u0E49\u0E19\r\n\u0E40\u0E01\u0E35\u0E48\u0E22\u0E27\u0E01\u0E31\
+      \u0E1A\u0E15\u0E31\u0E27\u0E1B\u0E23\u0E30\u0E21\u0E27\u0E25\u0E1C\u0E25\u0E20\
+      \u0E32\u0E29\u0E32\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21"
+    description_eng: "Basic principles of programming systems; relationship between\
+      \ system\r\nsoftware and machine architecture; principles and design of assemblers,\
+      \ loaders,\r\nlinkers,land macroprocessors; introduction to programming language\
+      \ processors."
+    institution: 1
+    name: "\u0E0B\u0E2D\u0E1F\u0E15\u0E4C\u0E41\u0E27\u0E23\u0E4C\u0E23\u0E30\u0E1A\
+      \u0E1A"
+    name_eng: System Software
+    prerequisites: [11]
+    units: 3
+    years_available: 3
+  model: core.subject
+  pk: 34
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '204433'
+    description: "\u0E01\u0E32\u0E23\u0E08\u0E31\u0E14\u0E2D\u0E07\u0E04\u0E4C\u0E1B\
+      \u0E23\u0E30\u0E01\u0E2D\u0E1A\u0E20\u0E32\u0E29\u0E32\u0E42\u0E1B\u0E23\u0E41\
+      \u0E01\u0E23\u0E21 \u0E04\u0E27\u0E32\u0E21\u0E23\u0E39\u0E49\u0E40\u0E1A\u0E37\
+      \u0E49\u0E2D\u0E07\u0E15\u0E49\u0E19\u0E40\u0E01\u0E35\u0E48\u0E22\u0E27\u0E01\
+      \u0E31\u0E1A\u0E01\u0E32\u0E23\u0E41\u0E1B\u0E25\u0E20\u0E32\u0E29\u0E32\r\n\
+      \u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E41\u0E25\u0E30\u0E15\u0E31\u0E27\
+      \u0E41\u0E1B\u0E25\u0E20\u0E32\u0E29\u0E32 \u0E01\u0E32\u0E23\u0E27\u0E34\u0E40\
+      \u0E04\u0E23\u0E32\u0E30\u0E2B\u0E4C\u0E40\u0E0A\u0E34\u0E07\u0E28\u0E31\u0E1E\
+      \u0E17\u0E4C \u0E40\u0E0A\u0E34\u0E07\u0E27\u0E32\u0E01\u0E22\u0E2A\u0E31\u0E21\
+      \u0E1E\u0E31\u0E19\u0E18\u0E4C \u0E41\u0E25\u0E30\u0E40\u0E0A\u0E34\u0E07\r\n\
+      \u0E04\u0E27\u0E32\u0E21\u0E2B\u0E21\u0E32\u0E22 \u0E01\u0E32\u0E23\u0E08\u0E31\
+      \u0E14\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E15\u0E32\u0E23\
+      \u0E32\u0E07\u0E2A\u0E31\u0E0D\u0E25\u0E31\u0E01\u0E29\u0E13\u0E4C \u0E01\u0E32\
+      \u0E23\u0E2A\u0E23\u0E49\u0E32\u0E07\u0E23\u0E2B\u0E31\u0E2A\u0E40\u0E04\u0E23\
+      \u0E37\u0E48\u0E2D\u0E07 \u0E01\u0E32\u0E23\u0E1B\u0E23\u0E31\u0E1A\u0E23\u0E2B\
+      \u0E31\u0E2A\r\n\u0E43\u0E2B\u0E49\u0E40\u0E2B\u0E21\u0E32\u0E30\u0E17\u0E35\
+      \u0E48\u0E2A\u0E38\u0E14 \u0E01\u0E32\u0E23\u0E08\u0E31\u0E14\u0E01\u0E32\u0E23\
+      \u0E02\u0E49\u0E2D\u0E1C\u0E34\u0E14\u0E1E\u0E25\u0E32\u0E14\u0E23\u0E30\u0E2B\
+      \u0E27\u0E48\u0E32\u0E07\u0E01\u0E32\u0E23\u0E41\u0E1B\u0E25"
+    description_eng: "Organization of programming languages; introduction to programming\r\
+      \nlanguage translation and translators; lexical, syntax, and semantic analysis;\r\
+      \nsymbol-table manipulation; code generation and code optimization; compile-time\r\
+      \nerror handling."
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E41\u0E1B\u0E25\u0E20\u0E32\u0E29\u0E32\u0E42\u0E1B\
+      \u0E23\u0E41\u0E01\u0E23\u0E21"
+    name_eng: Programming Language Translation
+    prerequisites: [6, 34]
+    units: 3
+    years_available: 4
+  model: core.subject
+  pk: 35
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204434'
+    description: "\u0E2A\u0E16\u0E32\u0E1B\u0E31\u0E15\u0E22\u0E01\u0E23\u0E23\u0E21\
+      \u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C\u0E41\u0E1A\
+      \u0E1A\u0E02\u0E19\u0E32\u0E19 \u0E41\u0E1A\u0E1A\u0E44\u0E1B\u0E1B\u0E4C\u0E44\
+      \u0E25\u0E19\u0E4C \u0E41\u0E25\u0E30\u0E41\u0E1A\u0E1A\u0E01\u0E23\u0E30\u0E08\
+      \u0E32\u0E22\r\n\u0E02\u0E31\u0E49\u0E19\u0E15\u0E2D\u0E19\u0E27\u0E34\u0E18\
+      \u0E35\u0E41\u0E1A\u0E1A\u0E02\u0E19\u0E32\u0E19 \u0E01\u0E32\u0E23\u0E2D\u0E2D\
+      \u0E01\u0E41\u0E1A\u0E1A\u0E23\u0E30\u0E1A\u0E1A\u0E04\u0E33\u0E19\u0E27\u0E13\
+      \u0E41\u0E1A\u0E1A\u0E02\u0E19\u0E32\u0E19\u0E41\u0E25\u0E30\u0E41\u0E1A\u0E1A\
+      \u0E01\u0E23\u0E30\u0E08\u0E32\u0E22\r\n\u0E27\u0E34\u0E18\u0E35\u0E01\u0E32\
+      \u0E23\u0E42\u0E2D\u0E19\u0E22\u0E49\u0E32\u0E22\u0E41\u0E1F\u0E49\u0E21\u0E02\
+      \u0E49\u0E2D\u0E21\u0E39\u0E25 \u0E01\u0E32\u0E23\u0E08\u0E31\u0E14\u0E01\u0E32\
+      \u0E23\u0E01\u0E32\u0E23\u0E40\u0E1D\u0E49\u0E32\u0E2A\u0E31\u0E07\u0E40\u0E01\
+      \u0E15 \u0E17\u0E2D\u0E1E\u0E2D\u0E42\u0E25\u0E22\u0E35\u0E40\u0E04\u0E23\u0E37\
+      \u0E2D\u0E02\u0E48\u0E32\u0E22\u0E41\u0E25\u0E30\r\n\u0E23\u0E30\u0E1A\u0E1A\
+      \u0E1B\u0E0F\u0E34\u0E1A\u0E31\u0E15\u0E34\u0E01\u0E32\u0E23\u0E41\u0E1A\u0E1A\
+      \u0E01\u0E23\u0E30\u0E08\u0E32\u0E22"
+    description_eng: "Computer architecture for parallel processing, pipelining and\
+      \ distributed\r\nprocessing; parallel algorithms; design of parallel and distributed\
+      \ computing\r\nsystems; file transfer methods; monitoring management; network\
+      \ topologies\r\nand distributed operating systems."
+    institution: 1
+    name: "\u0E23\u0E30\u0E1A\u0E1A\u0E04\u0E33\u0E19\u0E27\u0E13\u0E41\u0E1A\u0E1A\
+      \u0E02\u0E19\u0E32\u0E19\u0E41\u0E25\u0E30\u0E41\u0E1A\u0E1A\u0E01\u0E23\u0E30\
+      \u0E08\u0E32\u0E22"
+    name_eng: Parallel and Distributed Computing Systems
+    prerequisites: [21]
+    units: 3
+    years_available: 4
+  model: core.subject
+  pk: 36
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '204435'
+    description: "\u0E42\u0E04\u0E23\u0E07\u0E2A\u0E23\u0E49\u0E32\u0E07\u0E41\u0E25\
+      \u0E30\u0E01\u0E32\u0E23\u0E08\u0E31\u0E14\u0E2D\u0E07\u0E04\u0E4C\u0E1B\u0E23\
+      \u0E30\u0E01\u0E2D\u0E1A\u0E20\u0E32\u0E29\u0E32\u0E42\u0E1B\u0E23\u0E41\u0E01\
+      \u0E23\u0E21 \u0E15\u0E31\u0E27\u0E1B\u0E23\u0E30\u0E21\u0E27\u0E25\u0E1C\u0E25\
+      \u0E20\u0E32\u0E29\u0E32\r\n\u0E27\u0E32\u0E01\u0E22\u0E2A\u0E31\u0E21\u0E1E\
+      \u0E31\u0E19\u0E18\u0E4C \u0E0A\u0E19\u0E34\u0E14\u0E02\u0E49\u0E2D\u0E21\u0E39\
+      \u0E25 \u0E01\u0E32\u0E23\u0E04\u0E27\u0E1A\u0E04\u0E38\u0E21\u0E25\u0E33\u0E14\
+      \u0E31\u0E1A\u0E01\u0E32\u0E23\u0E17\u0E33\u0E07\u0E32\u0E19 \u0E01\u0E32\u0E23\
+      \u0E04\u0E27\u0E1A\u0E04\u0E38\u0E21\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\
+      \u0E22\u0E48\u0E2D\u0E22\r\n\u0E01\u0E32\u0E23\u0E08\u0E31\u0E14\u0E01\u0E32\
+      \u0E23\u0E2B\u0E19\u0E48\u0E27\u0E22\u0E40\u0E01\u0E47\u0E1A\u0E04\u0E27\u0E32\
+      \u0E21\u0E08\u0E33 \u0E40\u0E17\u0E04\u0E19\u0E34\u0E04\u0E01\u0E32\u0E23\u0E2A\
+      \u0E31\u0E21\u0E24\u0E17\u0E18\u0E34\u0E01\u0E32\u0E23\u0E41\u0E15\u0E48\u0E25\
+      \u0E30\u0E2A\u0E48\u0E27\u0E19\u0E02\u0E2D\u0E07\u0E20\u0E32\u0E29\u0E32\r\n\
+      \u0E01\u0E32\u0E23\u0E28\u0E36\u0E01\u0E29\u0E32\u0E41\u0E25\u0E30\u0E40\u0E1B\
+      \u0E23\u0E35\u0E22\u0E1A\u0E40\u0E17\u0E35\u0E22\u0E1A\u0E01\u0E23\u0E2D\u0E1A\
+      \u0E41\u0E19\u0E27\u0E04\u0E34\u0E14\u0E2B\u0E25\u0E31\u0E01\u0E02\u0E2D\u0E07\
+      \u0E01\u0E32\u0E23\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21"
+    description_eng: "Structure and organization of programming languages; language\r\
+      \nprocessors; syntax; data types; sequence control; subprogram control; storage\r\
+      \nmanagement; implementation techniques of each language feature; the study\
+      \ and\r\ncomparison of major programming paradigms"
+    institution: 1
+    name: "\u0E21\u0E42\u0E19\u0E17\u0E31\u0E28\u0E19\u0E4C\u0E20\u0E32\u0E29\u0E32\
+      \u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21"
+    name_eng: Programming Language Concepts
+    prerequisites: [6, 34]
+    units: 3
+    years_available: 4
+  model: core.subject
+  pk: 37
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '204436'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E40\u0E17\u0E04\u0E42\u0E19\u0E42\u0E25\u0E22\u0E35\u0E01\u0E32\u0E23\
+      \u0E04\u0E33\u0E19\u0E27\u0E13\u0E23\u0E30\u0E1A\u0E1A\u0E01\u0E23\u0E34\u0E14"
+    name_eng: Grid System Computing Technology
+    prerequisites: [21, 31]
+    units: 3
+    years_available: 4
+  model: core.subject
+  pk: 38
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '204451'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A\u0E23\u0E30\u0E1A\
+      \u0E1A\u0E10\u0E32\u0E19\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25"
+    name_eng: Database Systems Design
+    prerequisites: [24]
+    units: 3
+    years_available: 4
+  model: core.subject
+  pk: 39
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '204452'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E08\u0E31\u0E14\u0E01\u0E32\u0E23\u0E40\u0E17\u0E04\
+      \u0E42\u0E19\u0E42\u0E25\u0E22\u0E35\u0E2A\u0E32\u0E23\u0E2A\u0E19\u0E40\u0E17\
+      \u0E28"
+    name_eng: Information Technology Management
+    prerequisites: []
+    units: 3
+    years_available: 4
+  model: core.subject
+  pk: 40
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204453'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E04\u0E49\u0E19\u0E04\u0E37\u0E19\u0E41\u0E25\u0E30\
+      \u0E01\u0E32\u0E23\u0E17\u0E33\u0E40\u0E2B\u0E21\u0E37\u0E2D\u0E07\u0E02\u0E49\
+      \u0E2D\u0E21\u0E39\u0E25\u0E40\u0E27\u0E47\u0E1A"
+    name_eng: Web Information Retrieval and Mining
+    prerequisites: []
+    units: 3
+    years_available: 4
+  model: core.subject
+  pk: 41
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204461'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E1B\u0E31\u0E0D\u0E0D\u0E32\u0E1B\u0E23\u0E30\u0E14\u0E34\u0E29\u0E10\
+      \u0E4C"
+    name_eng: Artificial Intelligence
+    prerequisites: [6, 16]
+    units: 3
+    years_available: 3
+  model: core.subject
+  pk: 42
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204462'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E23\u0E30\u0E1A\u0E1A\u0E1C\u0E39\u0E49\u0E0A\u0E33\u0E19\u0E32\u0E0D\
+      \u0E01\u0E32\u0E23\u0E40\u0E1A\u0E37\u0E49\u0E2D\u0E07\u0E15\u0E49\u0E19"
+    name_eng: Introduction to Expert Systems
+    prerequisites: [42]
+    units: 3
+    years_available: 4
+  model: core.subject
+  pk: 43
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204463'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E1B\u0E23\u0E30\u0E21\u0E27\u0E25\u0E1C\u0E25\u0E20\
+      \u0E32\u0E29\u0E32\u0E18\u0E23\u0E23\u0E21\u0E0A\u0E32\u0E15\u0E34\u0E40\u0E1A\
+      \u0E37\u0E49\u0E2D\u0E07\u0E15\u0E49\u0E19"
+    name_eng: Introduction to Natural Language Processing
+    prerequisites: [6]
+    units: 3
+    years_available: 3
+  model: core.subject
+  pk: 44
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204464'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E17\u0E31\u0E28\u0E19\u0E28\u0E32\u0E2A\u0E15\u0E23\u0E4C\u0E04\u0E2D\
+      \u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C"
+    name_eng: Computer Vision
+    prerequisites: [42]
+    units: 3
+    years_available: 3
+  model: core.subject
+  pk: 45
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '204465'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E17\u0E33\u0E40\u0E2B\u0E21\u0E37\u0E2D\u0E07\u0E02\
+      \u0E49\u0E2D\u0E21\u0E39\u0E25\u0E41\u0E25\u0E30\u0E01\u0E32\u0E23\u0E04\u0E49\
+      \u0E19\u0E1E\u0E1A\u0E04\u0E27\u0E32\u0E21\u0E23\u0E39\u0E49\u0E40\u0E1A\u0E37\
+      \u0E49\u0E2D\u0E07\u0E15\u0E49\u0E19"
+    name_eng: Introduction to data mining and knowledge discovery
+    prerequisites: [24]
+    units: 3
+    years_available: 3
+  model: core.subject
+  pk: 46
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204471'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E40\u0E0A\u0E37\u0E48\u0E2D\u0E21\u0E15\u0E48\u0E2D\
+      \u0E01\u0E31\u0E1A\u0E44\u0E21\u0E42\u0E04\u0E23\u0E04\u0E2D\u0E21\u0E1E\u0E34\
+      \u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C"
+    name_eng: Microcomputer Interfacing
+    prerequisites: [18]
+    units: 3
+    years_available: 3
+  model: core.subject
+  pk: 47
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '417267'
+    description: "\u0E2A\u0E21\u0E01\u0E32\u0E23\u0E40\u0E0A\u0E34\u0E07\u0E2D\u0E19\
+      \u0E38\u0E1E\u0E31\u0E19\u0E18\u0E4C\u0E40\u0E0A\u0E34\u0E07\u0E40\u0E2A\u0E49\
+      \u0E19\u0E2D\u0E31\u0E19\u0E14\u0E31\u0E1A\u0E2B\u0E19\u0E36\u0E48\u0E07 \u0E2A\
+      \u0E21\u0E01\u0E32\u0E23\u0E40\u0E0A\u0E34\u0E07\u0E2D\u0E19\u0E38\u0E1E\u0E31\
+      \u0E19\u0E18\u0E4C\u0E40\u0E0A\u0E34\u0E07\u0E40\u0E2A\u0E49\u0E19\u0E17\u0E35\
+      \u0E48\u0E21\u0E35\r\n\u0E2A\u0E31\u0E21\u0E1B\u0E23\u0E30\u0E2A\u0E34\u0E17\
+      \u0E18\u0E34\u0E4C\u0E40\u0E1B\u0E47\u0E19\u0E04\u0E48\u0E32\u0E04\u0E07\u0E15\
+      \u0E31\u0E27 \u0E1C\u0E25\u0E01\u0E32\u0E23\u0E41\u0E1B\u0E25\u0E07\u0E25\u0E32\
+      \u0E1B\u0E25\u0E32\u0E0B \u0E1C\u0E25\u0E01\u0E32\u0E23\u0E41\u0E1B\u0E25\u0E07\
+      \u0E1C\u0E01\u0E1C\u0E31\u0E19 \u0E1C\u0E25\u0E40\u0E09\u0E25\u0E22\u0E17\u0E35\
+      \u0E48\u0E40\u0E1B\u0E47\u0E19\r\n\u0E2D\u0E19\u0E38\u0E01\u0E23\u0E21\u0E01\
+      \u0E33\u0E25\u0E31\u0E07 \u0E23\u0E30\u0E1A\u0E1A\u0E2A\u0E21\u0E01\u0E32\u0E23\
+      \u0E40\u0E0A\u0E34\u0E07\u0E2D\u0E19\u0E38\u0E1E\u0E31\u0E19\u0E18\u0E4C\u0E40\
+      \u0E0A\u0E34\u0E07\u0E40\u0E2A\u0E49\u0E19"
+    description_eng: "First order linear differential equations, linear differential\
+      \ equations with\r\nconstant coefficients, Laplace transforms, inverse transforms,\
+      \ power series\r\nsolutions, system of linear differential equations."
+    institution: 1
+    name: "\u0E04\u0E13\u0E34\u0E15\u0E28\u0E32\u0E2A\u0E15\u0E23\u0E4C\u0E27\u0E34\
+      \u0E28\u0E27\u0E01\u0E23\u0E23\u0E21 III"
+    name_eng: Engineering Mathematics III
+    prerequisites: [14]
+    units: 3
+    years_available: 2
+  model: core.subject
+  pk: 48
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204472'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E04\u0E33\u0E19\u0E27\u0E13\u0E40\u0E0A\u0E34\u0E07\
+      \u0E15\u0E31\u0E27\u0E40\u0E25\u0E02"
+    name_eng: Numerical Computation
+    prerequisites: [5, 48]
+    units: 3
+    years_available: 3
+  model: core.subject
+  pk: 49
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204473'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E23\u0E30\u0E1A\u0E1A\u0E40\u0E21\u0E04\u0E32\u0E17\u0E23\u0E2D\u0E19\
+      \u0E34\u0E01\u0E2A\u0E4C\u0E41\u0E25\u0E30\u0E01\u0E32\u0E23\u0E04\u0E27\u0E1A\
+      \u0E04\u0E38\u0E21"
+    name_eng: Mechatronic System and Control
+    prerequisites: []
+    units: 3
+    years_available: 4
+  model: core.subject
+  pk: 50
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204481'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C\u0E01\
+      \u0E23\u0E32\u0E1F\u0E34\u0E01\u0E2A\u0E4C\u0E02\u0E31\u0E49\u0E19\u0E1E\u0E37\
+      \u0E49\u0E19\u0E10\u0E32\u0E19"
+    name_eng: Foundations of Computer Graphics
+    prerequisites: [16]
+    units: 3
+    years_available: 3
+  model: core.subject
+  pk: 51
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204482'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E42\u0E15\u0E49\u0E15\u0E2D\u0E1A\u0E23\u0E30\u0E2B\
+      \u0E27\u0E48\u0E32\u0E07\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\
+      \u0E23\u0E4C\u0E01\u0E31\u0E1A\u0E21\u0E19\u0E38\u0E29\u0E22\u0E4C"
+    name_eng: Computer-Human Interfaces
+    prerequisites: [16]
+    units: 3
+    years_available: 3
+  model: core.subject
+  pk: 52
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204495'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E40\u0E15\u0E23\u0E35\u0E22\u0E21\u0E01\u0E32\u0E23\
+      \u0E42\u0E04\u0E23\u0E07\u0E07\u0E32\u0E19\u0E27\u0E34\u0E28\u0E27\u0E01\u0E23\
+      \u0E23\u0E21\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C"
+    name_eng: Computer Engineering Project Preparation
+    prerequisites: []
+    units: 2
+    years_available: 4
+  model: core.subject
+  pk: 53
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204496'
+    description: "\u0E40\u0E23\u0E37\u0E48\u0E2D\u0E07\u0E40\u0E09\u0E1E\u0E32\u0E30\
+      \u0E17\u0E32\u0E07\u0E27\u0E34\u0E28\u0E27\u0E01\u0E23\u0E23\u0E21\u0E04\u0E2D\
+      \u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C\u0E43\u0E19\u0E23\u0E30\
+      \u0E14\u0E31\u0E1A\u0E1B\u0E23\u0E34\u0E0D\u0E0D\u0E32\u0E15\u0E23\u0E35 \u0E2B\
+      \u0E31\u0E27\u0E02\u0E49\u0E2D\u0E40\u0E23\u0E37\u0E48\u0E2D\u0E07\r\n\u0E40\
+      \u0E1B\u0E25\u0E35\u0E48\u0E22\u0E19\u0E44\u0E1B\u0E43\u0E19\u0E41\u0E15\u0E48\
+      \u0E25\u0E30\u0E20\u0E32\u0E04\u0E01\u0E32\u0E23\u0E28\u0E36\u0E01\u0E29\u0E32"
+    description_eng: "Selected topics in computer engineering at the bachelor\u2019\
+      s degree level,\r\ntopics are subject to change in each semester."
+    institution: 1
+    name: "\u0E40\u0E23\u0E37\u0E48\u0E2D\u0E07\u0E40\u0E09\u0E1E\u0E32\u0E30\u0E17\
+      \u0E32\u0E07\u0E27\u0E34\u0E28\u0E27\u0E01\u0E23\u0E23\u0E21\u0E04\u0E2D\u0E21\
+      \u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C"
+    name_eng: Selected Topics in Computer Engineering
+    prerequisites: []
+    units: 3
+    years_available: 1
+  model: core.subject
+  pk: 54
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204497'
+    description: "\u0E01\u0E32\u0E23\u0E19\u0E33\u0E40\u0E2A\u0E19\u0E2D\u0E41\u0E25\
+      \u0E30\u0E2D\u0E20\u0E34\u0E1B\u0E23\u0E32\u0E22\u0E2B\u0E31\u0E27\u0E02\u0E49\
+      \u0E2D\u0E17\u0E35\u0E48\u0E19\u0E48\u0E32\u0E2A\u0E19\u0E43\u0E08\u0E17\u0E32\
+      \u0E07\u0E27\u0E34\u0E28\u0E27\u0E01\u0E23\u0E23\u0E21\u0E04\u0E2D\u0E21\u0E1E\
+      \u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C\u0E43\u0E19\r\n\u0E23\u0E30\u0E14\
+      \u0E31\u0E1A\u0E1B\u0E23\u0E34\u0E0D\u0E0D\u0E32\u0E15\u0E23\u0E35"
+    description_eng: "Presentation and discussion of interesting topics in computer\
+      \ engineering\r\nat the bachelor\u2019s degree level."
+    institution: 1
+    name: "\u0E2A\u0E31\u0E21\u0E21\u0E19\u0E32"
+    name_eng: Seminar
+    prerequisites: []
+    units: 1
+    years_available: 4
+  model: core.subject
+  pk: 55
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '204498'
+    description: "\u0E01\u0E32\u0E23\u0E28\u0E36\u0E01\u0E29\u0E32\u0E04\u0E49\u0E19\
+      \u0E04\u0E27\u0E49\u0E32\u0E17\u0E32\u0E07\u0E27\u0E34\u0E28\u0E27\u0E01\u0E23\
+      \u0E23\u0E21\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C\
+      \u0E23\u0E30\u0E14\u0E31\u0E1A\u0E1B\u0E23\u0E34\u0E0D\u0E0D\u0E32\u0E15\u0E23\
+      \u0E35 \u0E41\u0E25\u0E30\u0E40\u0E23\u0E35\u0E22\u0E1A\u0E40\u0E23\u0E35\u0E22\
+      \u0E07\r\n\u0E40\u0E02\u0E35\u0E22\u0E19\u0E40\u0E1B\u0E47\u0E19\u0E23\u0E32\
+      \u0E22\u0E07\u0E32\u0E19"
+    description_eng: "Study and research in computer engineering at the bachelor\u2019\
+      s degree level\r\nand compile into a report."
+    institution: 1
+    name: "\u0E1B\u0E31\u0E0D\u0E2B\u0E32\u0E1E\u0E34\u0E40\u0E28\u0E29"
+    name_eng: Special Problems
+    prerequisites: []
+    units: 3
+    years_available: 4
+  model: core.subject
+  pk: 56
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '204499'
+    description: "\u0E42\u0E04\u0E23\u0E07\u0E07\u0E32\u0E19\u0E17\u0E35\u0E48\u0E19\
+      \u0E48\u0E32\u0E2A\u0E19\u0E43\u0E08\u0E43\u0E19\u0E41\u0E02\u0E19\u0E07\u0E15\
+      \u0E48\u0E32\u0E07 \u0E46 \u0E17\u0E32\u0E07\u0E14\u0E49\u0E32\u0E19\u0E27\u0E34\
+      \u0E28\u0E27\u0E01\u0E23\u0E23\u0E21\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\
+      \u0E15\u0E2D\u0E23\u0E4C"
+    description_eng: Project of practical interest in various fields of computer engineering.
+    institution: 1
+    name: "\u0E42\u0E04\u0E23\u0E07\u0E07\u0E32\u0E19\u0E27\u0E34\u0E28\u0E27\u0E01\
+      \u0E23\u0E23\u0E21\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\
+      \u0E4C"
+    name_eng: Computer Engineering Project
+    prerequisites: [53]
+    units: 2
+    years_available: 4
+  model: core.subject
+  pk: 57
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '999021'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E20\u0E32\u0E29\u0E32\u0E44\u0E17\u0E22\u0E40\u0E1E\u0E37\u0E48\u0E2D\
+      \u0E01\u0E32\u0E23\u0E2A\u0E37\u0E48\u0E2D\u0E2A\u0E32\u0E23"
+    name_eng: Thai Language for Communication
+    prerequisites: []
+    units: 3
+    years_available: 1
+  model: core.subject
+  pk: 58
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '355111'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E20\u0E32\u0E29\u0E32\u0E2D\u0E31\u0E07\u0E01\u0E24\u0E29\u0E1E\u0E37\
+      \u0E49\u0E19\u0E10\u0E32\u0E19 I"
+    name_eng: Foundation English I
+    prerequisites: []
+    units: 3
+    years_available: 1
+  model: core.subject
+  pk: 59
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '355112'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E20\u0E32\u0E29\u0E32\u0E2D\u0E31\u0E07\u0E01\u0E24\u0E29\u0E1E\u0E37\
+      \u0E49\u0E19\u0E10\u0E32\u0E19 II"
+    name_eng: Foundation English II
+    prerequisites: [59]
+    units: 3
+    years_available: 1
+  model: core.subject
+  pk: 60
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '355113'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E20\u0E32\u0E29\u0E32\u0E2D\u0E31\u0E07\u0E01\u0E24\u0E29\u0E1E\u0E37\
+      \u0E49\u0E19\u0E10\u0E32\u0E19 III"
+    name_eng: Foundation English III
+    prerequisites: [60]
+    units: 3
+    years_available: 3
+  model: core.subject
+  pk: 61
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '208111'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E40\u0E02\u0E35\u0E22\u0E19\u0E41\u0E1A\u0E1A\u0E27\
+      \u0E34\u0E28\u0E27\u0E01\u0E23\u0E23\u0E21"
+    name_eng: Engineering Drawing
+    prerequisites: []
+    units: 3
+    years_available: 1
+  model: core.subject
+  pk: 62
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '403114'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E1B\u0E0F\u0E34\u0E1A\u0E31\u0E15\u0E34\u0E01\u0E32\u0E23\u0E2B\u0E25\
+      \u0E31\u0E01\u0E21\u0E39\u0E25\u0E40\u0E04\u0E21\u0E35\u0E17\u0E31\u0E48\u0E27\
+      \u0E44\u0E1B"
+    name_eng: Laboratory in Fundamental of General Chemistry
+    prerequisites: []
+    units: 1
+    years_available: 1
+  model: core.subject
+  pk: 63
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '403117'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E2B\u0E25\u0E31\u0E01\u0E21\u0E39\u0E25\u0E40\u0E04\u0E21\u0E35\u0E17\
+      \u0E31\u0E48\u0E27\u0E44\u0E1B"
+    name_eng: Fundamental of General Chemistry
+    prerequisites: []
+    units: 3
+    years_available: 1
+  model: core.subject
+  pk: 64
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '205201'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E27\u0E34\u0E28\u0E27\u0E01\u0E23\u0E23\u0E21\u0E44\u0E1F\u0E1F\u0E49\
+      \u0E32\u0E40\u0E1A\u0E37\u0E49\u0E2D\u0E07\u0E15\u0E49\u0E19"
+    name_eng: Introduction to Electrical Engineering
+    prerequisites: []
+    units: 3
+    years_available: 2
+  model: core.subject
+  pk: 65
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '205202'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E1B\u0E0F\u0E34\u0E1A\u0E31\u0E15\u0E34\u0E01\u0E32\u0E23\u0E27\u0E34\
+      \u0E28\u0E27\u0E01\u0E23\u0E23\u0E21\u0E44\u0E1F\u0E1F\u0E49\u0E32 I"
+    name_eng: Electrical Engineering Laboratory I
+    prerequisites: [65]
+    units: 1
+    years_available: 2
+  model: core.subject
+  pk: 66
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '205203'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E2D\u0E34\u0E40\u0E25\u0E47\u0E01\u0E17\u0E23\u0E2D\u0E19\u0E34\u0E01\
+      \u0E2A\u0E4C\u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E27\u0E34\u0E28\u0E27\u0E01\
+      \u0E23\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C"
+    name_eng: Electronics for Computer Engineer
+    prerequisites: []
+    units: 3
+    years_available: 2
+  model: core.subject
+  pk: 67
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '205303'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E1B\u0E0F\u0E34\u0E1A\u0E31\u0E15\u0E34\u0E01\u0E32\u0E23\u0E2D\u0E34\
+      \u0E40\u0E25\u0E47\u0E01\u0E17\u0E23\u0E2D\u0E19\u0E34\u0E01\u0E2A\u0E4C\u0E2A\
+      \u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E27\u0E34\u0E28\u0E27\u0E01\u0E23\u0E04\u0E2D\
+      \u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C"
+    name_eng: Electronics Laboratory for Computer Engineer
+    prerequisites: [67]
+    units: 1
+    years_available: 3
+  model: core.subject
+  pk: 68
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '208201'
+    description: "\u0E01\u0E32\u0E23\u0E27\u0E34\u0E40\u0E04\u0E23\u0E32\u0E30\u0E2B\
+      \u0E4C\u0E41\u0E23\u0E07 \u0E2A\u0E21\u0E14\u0E38\u0E25 \u0E04\u0E27\u0E32\u0E21\
+      \u0E40\u0E2A\u0E35\u0E22\u0E14\u0E17\u0E32\u0E19\u0E41\u0E2B\u0E49\u0E07 \u0E01\
+      \u0E32\u0E23\u0E1B\u0E23\u0E31\u0E1A\u0E2A\u0E21\u0E01\u0E32\u0E23\u0E2A\u0E21\
+      \u0E14\u0E38\u0E25\u0E01\u0E31\u0E1A\r\n\u0E42\u0E04\u0E23\u0E07\u0E01\u0E23\
+      \u0E2D\u0E1A\u0E41\u0E25\u0E30\u0E40\u0E04\u0E23\u0E37\u0E48\u0E2D\u0E07\u0E08\
+      \u0E31\u0E01\u0E23\u0E01\u0E25 \u0E01\u0E25\u0E28\u0E32\u0E2A\u0E15\u0E23\u0E4C\
+      \u0E02\u0E2D\u0E07\u0E44\u0E2B\u0E25\u0E40\u0E1A\u0E37\u0E49\u0E2D\u0E07\u0E15\
+      \u0E49\u0E19 \u0E08\u0E25\u0E19\u0E28\u0E32\u0E2A\u0E15\u0E23\u0E4C\u0E41\u0E25\
+      \u0E30\r\n\u0E08\u0E25\u0E19\u0E1E\u0E25\u0E28\u0E32\u0E2A\u0E15\u0E23\u0E4C\
+      \u0E02\u0E2D\u0E07\u0E2D\u0E19\u0E38\u0E20\u0E32\u0E04 \u0E41\u0E25\u0E30\u0E27\
+      \u0E31\u0E15\u0E16\u0E38\u0E41\u0E02\u0E47\u0E07\u0E40\u0E01\u0E23\u0E47\u0E07\
+      \u0E43\u0E19\u0E23\u0E30\u0E19\u0E32\u0E1A \u0E01\u0E0E\u0E01\u0E32\u0E23\u0E40\
+      \u0E04\u0E25\u0E37\u0E48\u0E2D\u0E19\u0E17\u0E35\u0E48\u0E02\u0E2D\u0E07\u0E19\
+      \u0E34\u0E27\r\n\u0E15\u0E31\u0E19 \u0E2B\u0E25\u0E31\u0E01\u0E02\u0E2D\u0E07\
+      \u0E07\u0E32\u0E19\u0E41\u0E25\u0E30\u0E1E\u0E25\u0E31\u0E07\u0E07\u0E32\u0E19"
+    description_eng: "Analysis of forces, equilibrium, dry friction, adaptation of\r\
+      \nequilibrium equations to frame and machines, introduction to fluid\r\nmechanics,\
+      \ kinematics of particles and rigid bodies in plane, Newton's\r\nlaws, principles\
+      \ of work and energy."
+    institution: 1
+    name: "\u0E2B\u0E25\u0E31\u0E01\u0E01\u0E32\u0E23\u0E1E\u0E37\u0E49\u0E19\u0E10\
+      \u0E32\u0E19\u0E17\u0E32\u0E07\u0E01\u0E25\u0E28\u0E32\u0E2A\u0E15\u0E23\u0E4C\
+      \u0E27\u0E34\u0E28\u0E27\u0E01\u0E23\u0E23\u0E21"
+    name_eng: Basic Principle in Engineering Mechanics
+    prerequisites: [12]
+    units: 3
+    years_available: 2
+  model: core.subject
+  pk: 69
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '219211'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E04\u0E48\u0E32\u0E22\u0E1D\u0E36\u0E01\u0E1E\u0E31\u0E12\u0E19\u0E32\
+      \u0E0B\u0E2D\u0E1F\u0E15\u0E4C\u0E41\u0E27\u0E23\u0E4C"
+    name_eng: Software Development Training Camp
+    prerequisites: []
+    units: 1
+    years_available: 2
+  model: core.subject
+  pk: 70
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '420111'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E1F\u0E34\u0E2A\u0E34\u0E01\u0E2A\u0E4C\u0E17\u0E31\u0E48\u0E27\u0E44\
+      \u0E1B I"
+    name_eng: General Physics I
+    prerequisites: []
+    units: 3
+    years_available: 1
+  model: core.subject
+  pk: 71
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '420112'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E1F\u0E34\u0E2A\u0E34\u0E01\u0E2A\u0E4C\u0E17\u0E31\u0E48\u0E27\u0E44\
+      \u0E1B II"
+    name_eng: General Physics II
+    prerequisites: [71]
+    units: 3
+    years_available: 1
+  model: core.subject
+  pk: 72
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '420113'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E1B\u0E0E\u0E34\u0E1A\u0E31\u0E15\u0E34\u0E01\u0E32\u0E23\u0E1F\u0E34\
+      \u0E2A\u0E34\u0E01\u0E2A\u0E4C I"
+    name_eng: Laboratory in Physics I
+    prerequisites: [71]
+    units: 1
+    years_available: 1
+  model: core.subject
+  pk: 73
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '420114'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E1B\u0E0E\u0E34\u0E1A\u0E31\u0E15\u0E34\u0E01\u0E32\u0E23\u0E1F\u0E34\
+      \u0E2A\u0E34\u0E01\u0E2A\u0E4C II"
+    name_eng: Laboratory in Physics II
+    prerequisites: [72]
+    units: 1
+    years_available: 1
+  model: core.subject
+  pk: 74
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '999011'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E2D\u0E32\u0E2B\u0E32\u0E23\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E21\u0E19\
+      \u0E38\u0E29\u0E22\u0E0A\u0E32\u0E15\u0E34"
+    name_eng: Food for Mankind
+    prerequisites: []
+    units: 3
+    years_available: 1
+  model: core.subject
+  pk: 75
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '999012'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E2A\u0E38\u0E02\u0E20\u0E32\u0E1E\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E0A\
+      \u0E35\u0E27\u0E34\u0E15"
+    name_eng: Health for Life
+    prerequisites: []
+    units: 3
+    years_available: 1
+  model: core.subject
+  pk: 76
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '999213'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E2A\u0E34\u0E48\u0E07\u0E41\u0E27\u0E14\u0E25\u0E49\u0E2D\u0E21 \u0E40\
+      \u0E17\u0E04\u0E42\u0E19\u0E42\u0E25\u0E22\u0E35\u0E41\u0E25\u0E30\u0E0A\u0E35\
+      \u0E27\u0E34\u0E15"
+    name_eng: Environment, Technology and Life
+    prerequisites: []
+    units: 3
+    years_available: 2
+  model: core.subject
+  pk: 77
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '999041'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E40\u0E28\u0E23\u0E29\u0E10\u0E28\u0E32\u0E2A\u0E15\u0E23\u0E4C\u0E40\
+      \u0E1E\u0E37\u0E48\u0E2D\u0E01\u0E32\u0E23\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\
+      \u0E0A\u0E35\u0E27\u0E34\u0E15\u0E17\u0E35\u0E48\u0E14\u0E35"
+    name_eng: Economics for Better Living
+    prerequisites: []
+    units: 3
+    years_available: 1
+  model: core.subject
+  pk: 78
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '999141'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E21\u0E19\u0E38\u0E29\u0E22\u0E4C\u0E01\u0E31\u0E1A\u0E2A\u0E31\u0E07\
+      \u0E04\u0E21"
+    name_eng: Man and Society
+    prerequisites: []
+    units: 3
+    years_available: 1
+  model: core.subject
+  pk: 79
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '999031'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E21\u0E23\u0E14\u0E01\u0E2D\u0E32\u0E23\u0E22\u0E18\u0E23\u0E23\u0E21\
+      \u0E42\u0E25\u0E01"
+    name_eng: The Heritage of World Civilizations
+    prerequisites: []
+    units: 3
+    years_available: 1
+  model: core.subject
+  pk: 80
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '999032'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E44\u0E17\u0E22\u0E28\u0E36\u0E01\u0E29\u0E32"
+    name_eng: Thai Studies
+    prerequisites: []
+    units: 3
+    years_available: 1
+  model: core.subject
+  pk: 81
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '999033'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E28\u0E34\u0E25\u0E1B\u0E30\u0E01\u0E32\u0E23\u0E14\u0E33\u0E40\u0E19\
+      \u0E34\u0E19\u0E0A\u0E35\u0E27\u0E34\u0E15"
+    name_eng: Arts of Living
+    prerequisites: []
+    units: 3
+    years_available: 1
+  model: core.subject
+  pk: 82
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '355211'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E42\u0E04\u0E23\u0E07\u0E2A\u0E23\u0E49\u0E32\u0E07\u0E20\u0E32\u0E29\
+      \u0E32\u0E2D\u0E31\u0E07\u0E01\u0E24\u0E29\u0E02\u0E31\u0E49\u0E19\u0E15\u0E49\
+      \u0E19"
+    name_eng: Basic English Structure
+    prerequisites: [61]
+    units: 3
+    years_available: 2
+  model: core.subject
+  pk: 83
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '355231'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E40\u0E02\u0E35\u0E22\u0E19\u0E20\u0E32\u0E29\u0E32\
+      \u0E2D\u0E31\u0E07\u0E01\u0E24\u0E29\u0E02\u0E31\u0E49\u0E19\u0E15\u0E49\u0E19"
+    name_eng: Basic English Writing
+    prerequisites: [61]
+    units: 3
+    years_available: 2
+  model: core.subject
+  pk: 84
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '355241'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E1F\u0E31\u0E07-\u0E01\u0E32\u0E23\u0E1E\u0E39\u0E14\
+      \u0E20\u0E32\u0E29\u0E32\u0E2D\u0E31\u0E07\u0E01\u0E24\u0E29\u0E02\u0E31\u0E49\
+      \u0E19\u0E15\u0E49\u0E19"
+    name_eng: Basic English Listening-Speaking
+    prerequisites: [61]
+    units: 3
+    years_available: 2
+  model: core.subject
+  pk: 85
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '355221'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E2D\u0E48\u0E32\u0E19\u0E20\u0E32\u0E29\u0E32\u0E2D\
+      \u0E31\u0E07\u0E01\u0E24\u0E29\u0E02\u0E31\u0E49\u0E19\u0E15\u0E49\u0E19"
+    name_eng: Basic English Reading
+    prerequisites: [61]
+    units: 3
+    years_available: 2
+  model: core.subject
+  pk: 86
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '175111'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: Track & Field
+    name_eng: ''
+    prerequisites: []
+    units: 1
+    years_available: 1
+  model: core.subject
+  pk: 87
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '175112'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: Badminton
+    name_eng: ''
+    prerequisites: []
+    units: 1
+    years_available: 1
+  model: core.subject
+  pk: 88
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '175113'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: Lawn Tennis
+    name_eng: ''
+    prerequisites: []
+    units: 1
+    years_available: 1
+  model: core.subject
+  pk: 89
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '175114'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: Table Tennis
+    name_eng: ''
+    prerequisites: []
+    units: 1
+    years_available: 1
+  model: core.subject
+  pk: 90
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '200322'
+    description: ''
+    description_eng: ''
+    institution: 1
+    name: "\u0E17\u0E31\u0E01\u0E29\u0E30\u0E01\u0E32\u0E23\u0E2A\u0E37\u0E48\u0E2D\
+      \u0E2A\u0E32\u0E23\u0E43\u0E19\u0E07\u0E32\u0E19\u0E27\u0E34\u0E28\u0E27\u0E01\
+      \u0E23\u0E23\u0E21 I"
+    name_eng: Communication Skills in Engineering I
+    prerequisites: []
+    units: 3
+    years_available: 3
+  model: core.subject
+  pk: 91
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '205314'
+    description: "\u0E2A\u0E31\u0E0D\u0E0D\u0E32\u0E13\u0E40\u0E27\u0E25\u0E32\u0E44\
+      \u0E21\u0E48\u0E15\u0E48\u0E2D\u0E40\u0E19\u0E37\u0E48\u0E2D\u0E07\u0E41\u0E25\
+      \u0E30\u0E23\u0E30\u0E1A\u0E1A \u0E01\u0E32\u0E23\u0E41\u0E1B\u0E25\u0E07\u0E1F\
+      \u0E39\u0E40\u0E23\u0E35\u0E22\u0E23\u0E4C\u0E41\u0E25\u0E30\u0E01\u0E32\u0E23\
+      \u0E41\u0E1B\u0E25\u0E07\u0E1F\u0E39\u0E40\u0E23\u0E35\u0E22\u0E23\u0E4C\u0E44\
+      \u0E21\u0E48\u0E15\u0E48\u0E2D\u0E40\u0E19\u0E37\u0E48\u0E2D\u0E07 \u0E01\u0E32\
+      \u0E23\r\n\u0E41\u0E1B\u0E25\u0E07\u0E0B\u0E35 \u0E01\u0E32\u0E23\u0E0A\u0E31\
+      \u0E01\u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07\u0E2A\u0E31\u0E0D\u0E0D\
+      \u0E32\u0E13\u0E40\u0E27\u0E25\u0E32\u0E15\u0E48\u0E2D\u0E40\u0E19\u0E37\u0E48\
+      \u0E2D\u0E07 \u0E01\u0E32\u0E23\u0E27\u0E34\u0E40\u0E04\u0E23\u0E32\u0E30\u0E2B\
+      \u0E4C\u0E01\u0E32\u0E23\u0E41\u0E1B\u0E25\u0E07\u0E02\u0E2D\u0E07\u0E23\u0E30\
+      \u0E1A\u0E1A\u0E44\u0E21\u0E48\u0E40\u0E1B\u0E25\u0E35\u0E48\u0E22\u0E19\u0E41\
+      \u0E1B\u0E25\u0E07\u0E15\u0E32\u0E21\r\n\u0E40\u0E27\u0E25\u0E32\u0E40\u0E0A\
+      \u0E34\u0E07\u0E40\u0E2A\u0E49\u0E19 \u0E42\u0E04\u0E23\u0E07\u0E2A\u0E23\u0E49\
+      \u0E32\u0E07\u0E02\u0E2D\u0E07\u0E23\u0E30\u0E1A\u0E1A\u0E40\u0E27\u0E25\u0E32\
+      \u0E44\u0E21\u0E48\u0E15\u0E48\u0E2D\u0E40\u0E19\u0E37\u0E48\u0E2D\u0E07 \u0E01\
+      \u0E32\u0E23\u0E1B\u0E23\u0E30\u0E22\u0E38\u0E01\u0E15\u0E4C\u0E01\u0E32\u0E23\
+      \u0E1B\u0E23\u0E30\u0E21\u0E27\u0E25\u0E2A\u0E31\u0E0D\u0E0D\u0E32\u0E13\u0E14\
+      \u0E34\u0E08\u0E34\u0E17\u0E31\u0E25"
+    description_eng: "Discrete-time signals and systems, Fourier transform and discrete\
+      \ Fourier transform, z\r\ntransform, sampling of continuous time signal, transform\
+      \ analysis of linear time-invariant\r\nsystems, structures for discrete-time\
+      \ systems, digital signal processing applications."
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E1B\u0E23\u0E30\u0E21\u0E27\u0E25\u0E2A\u0E31\u0E0D\
+      \u0E0D\u0E32\u0E13\u0E14\u0E34\u0E08\u0E34\u0E17\u0E31\u0E25"
+    name_eng: Digital Signal Processing
+    prerequisites: []
+    units: 3
+    years_available: 3
+  model: core.subject
+  pk: 92
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '205232'
+    description: "\u0E23\u0E30\u0E1A\u0E1A\u0E08\u0E33\u0E19\u0E27\u0E19\u0E41\u0E25\
+      \u0E30\u0E23\u0E2B\u0E31\u0E2A \u0E1E\u0E35\u0E0A\u0E04\u0E13\u0E34\u0E15\u0E41\
+      \u0E1A\u0E1A\u0E1A\u0E39\u0E25\u0E34\u0E19 \u0E2B\u0E25\u0E31\u0E01\u0E01\u0E32\
+      \u0E23\u0E01\u0E32\u0E23\u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A\u0E27\u0E07\u0E08\
+      \u0E23\u0E15\u0E23\u0E23\u0E01\u0E30\u0E40\u0E0A\u0E34\u0E07\u0E08\u0E31\u0E14\
+      \u0E2B\u0E21\u0E39\u0E48\r\n\u0E41\u0E25\u0E30\u0E27\u0E07\u0E08\u0E23\u0E15\
+      \u0E23\u0E23\u0E01\u0E30\u0E40\u0E0A\u0E34\u0E07\u0E08\u0E31\u0E14\u0E2B\u0E21\
+      \u0E39\u0E48\u0E2A\u0E33\u0E40\u0E23\u0E47\u0E08\u0E23\u0E39\u0E1B \u0E01\u0E32\
+      \u0E23\u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A\u0E27\u0E07\u0E08\u0E23\u0E42\u0E14\
+      \u0E22\u0E43\u0E0A\u0E49\u0E04\u0E32\u0E23\u0E4C\u0E42\u0E19 \u0E2B\u0E25\u0E31\
+      \u0E01\u0E01\u0E32\u0E23\u0E01\u0E32\u0E23\u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A\
+      \u0E27\u0E07\u0E08\u0E23\r\n\u0E15\u0E23\u0E23\u0E01\u0E30\u0E40\u0E1B\u0E47\
+      \u0E19\u0E25\u0E33\u0E14\u0E31\u0E1A\u0E41\u0E25\u0E30\u0E27\u0E07\u0E08\u0E23\
+      \u0E15\u0E23\u0E23\u0E01\u0E30\u0E40\u0E1B\u0E47\u0E19\u0E25\u0E33\u0E14\u0E31\
+      \u0E1A\u0E2A\u0E33\u0E40\u0E23\u0E47\u0E08\u0E23\u0E39\u0E1B \u0E01\u0E32\u0E23\
+      \u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A\u0E27\u0E07\u0E08\u0E23\u0E15\u0E23\u0E23\
+      \u0E01\u0E30\u0E42\u0E14\u0E22\u0E43\u0E0A\u0E49\u0E2A\u0E40\u0E15\u0E15\u0E41\
+      \u0E21\r\n\u0E0A\u0E0A\u0E35\u0E19 \u0E01\u0E32\u0E23\u0E2D\u0E2D\u0E01\u0E41\
+      \u0E1A\u0E1A\u0E27\u0E07\u0E08\u0E23\u0E15\u0E23\u0E23\u0E01\u0E30\u0E40\u0E1B\
+      \u0E47\u0E19\u0E25\u0E33\u0E14\u0E31\u0E1A\u0E41\u0E1A\u0E1A\u0E1B\u0E23\u0E30\
+      \u0E2A\u0E32\u0E19\u0E40\u0E27\u0E25\u0E32\u0E41\u0E25\u0E30\u0E44\u0E21\u0E48\
+      \u0E1B\u0E23\u0E30\u0E2A\u0E32\u0E19\u0E40\u0E27\u0E25\u0E32 \u0E27\u0E07\u0E08\
+      \u0E23\u0E23\u0E27\u0E21\u0E14\u0E34\u0E08\u0E34\u0E17\u0E31\u0E25\r\n\u0E15\
+      \u0E23\u0E30\u0E01\u0E39\u0E25\u0E15\u0E48\u0E32\u0E07\u0E46 \u0E2D\u0E38\u0E1B\
+      \u0E01\u0E23\u0E13\u0E4C\u0E15\u0E23\u0E23\u0E01\u0E30\u0E41\u0E1A\u0E1A\u0E42\
+      \u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E44\u0E14\u0E49\u0E01\u0E32\u0E23\u0E15\
+      \u0E48\u0E2D\u0E40\u0E0A\u0E37\u0E48\u0E2D\u0E21\u0E01\u0E31\u0E1A\u0E27\u0E07\
+      \u0E08\u0E23\u0E41\u0E2D\u0E19\u0E30\u0E25\u0E47\u0E2D\u0E01 \u0E01\u0E32\u0E23\
+      \u0E41\u0E19\u0E30\u0E19\u0E33\u0E27\u0E34\u0E18\u0E35\u0E43\u0E0A\u0E49\r\n\
+      \u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\
+      \u0E40\u0E15\u0E2D\u0E23\u0E4C\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E0A\u0E48\u0E27\
+      \u0E22\u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A\u0E27\u0E07\u0E08\u0E23\u0E14\u0E34\
+      \u0E08\u0E34\u0E17\u0E31\u0E25"
+    description_eng: "Number systems and codes, boolean algebra, combinational logic\
+      \ design principles and\r\npractices, logic design by using Karnaugh map, sequential\
+      \ logic design principles and practices,\r\nlogic design by using state machine,\
+      \ synchronous and asynchronous sequential logic design,\r\nvarious families\
+      \ of digital integrated circuits, programmable logic devices, interfacing with\r\
+      \nanalogue circuits, introduction to computer aid design for digital logic design."
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A\u0E27\u0E07\u0E08\
+      \u0E23\u0E14\u0E34\u0E08\u0E34\u0E17\u0E31\u0E25\u0E41\u0E25\u0E30\u0E15\u0E23\
+      \u0E23\u0E01\u0E30"
+    name_eng: Digital Circuits and Logic Design
+    prerequisites: []
+    units: 3
+    years_available: 1
+  model: core.subject
+  pk: 93
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '205338'
+    description: "\u0E17\u0E24\u0E29\u0E0E\u0E35\u0E41\u0E25\u0E30\u0E23\u0E39\u0E1B\
+      \u0E41\u0E1A\u0E1A\u0E02\u0E2D\u0E07\u0E21\u0E2D\u0E2A\u0E17\u0E23\u0E32\u0E19\
+      \u0E0B\u0E34\u0E2A\u0E40\u0E15\u0E2D\u0E23\u0E4C \u0E01\u0E32\u0E23\u0E2A\u0E23\
+      \u0E49\u0E32\u0E07\u0E40\u0E01\u0E15\u0E0B\u0E35\u0E21\u0E2D\u0E2A \u0E40\u0E17\
+      \u0E04\u0E42\u0E19\u0E42\u0E25\u0E22\u0E35\u0E27\u0E07\u0E08\u0E23\u0E23\u0E27\
+      \u0E21\u0E41\u0E25\u0E30\r\n\u0E01\u0E23\u0E30\u0E1A\u0E27\u0E19\u0E01\u0E32\
+      \u0E23\u0E1C\u0E25\u0E34\u0E15 \u0E40\u0E17\u0E04\u0E19\u0E34\u0E04\u0E41\u0E25\
+      \u0E30\u0E40\u0E01\u0E13\u0E11\u0E4C\u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E01\
+      \u0E32\u0E23\u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A\u0E27\u0E07\u0E08\u0E23\u0E23\
+      \u0E27\u0E21 \u0E01\u0E32\u0E23\u0E04\u0E32\u0E14\u0E40\u0E14\u0E32\u0E2A\u0E21\
+      \u0E23\u0E23\u0E16\u0E19\u0E30\u0E42\u0E14\u0E22\u0E41\u0E04\u0E14\r\n\u0E41\
+      \u0E25\u0E30\u0E40\u0E04\u0E23\u0E37\u0E48\u0E2D\u0E07\u0E21\u0E37\u0E2D\u0E01\
+      \u0E32\u0E23\u0E08\u0E33\u0E25\u0E2D\u0E07\u0E41\u0E1A\u0E1A \u0E01\u0E32\u0E23\
+      \u0E2B\u0E32\u0E04\u0E48\u0E32\u0E2A\u0E21\u0E23\u0E23\u0E16\u0E19\u0E30\u0E02\
+      \u0E2D\u0E07\u0E27\u0E07\u0E08\u0E23\u0E0B\u0E35\u0E21\u0E2D\u0E2A\u0E43\u0E2B\
+      \u0E49\u0E40\u0E2B\u0E21\u0E32\u0E30\u0E2A\u0E21\u0E17\u0E35\u0E48\u0E2A\u0E38\
+      \u0E14 \u0E17\u0E24\u0E29\u0E0E\u0E35\u0E02\u0E2D\u0E07\r\n\u0E40\u0E2D\u0E1F\
+      \u0E1E\u0E35\u0E08\u0E35\u0E40\u0E2D\u0E41\u0E25\u0E30\u0E40\u0E17\u0E04\u0E42\
+      \u0E19\u0E42\u0E25\u0E22\u0E35\u0E17\u0E35\u0E48\u0E40\u0E01\u0E35\u0E48\u0E22\
+      \u0E27\u0E02\u0E49\u0E2D\u0E07 \u0E01\u0E32\u0E23\u0E2A\u0E23\u0E49\u0E32\u0E07\
+      \u0E27\u0E07\u0E08\u0E23\u0E15\u0E49\u0E19\u0E41\u0E1A\u0E1A\u0E27\u0E07\u0E08\
+      \u0E23\u0E23\u0E27\u0E21\u0E02\u0E19\u0E32\u0E14\u0E43\u0E2B\u0E0D\u0E48\u0E42\
+      \u0E14\u0E22\u0E43\u0E0A\u0E49\u0E27\u0E35\u0E40\u0E2D\u0E0A\u0E14\u0E35\u0E41\
+      \u0E2D\u0E25\r\n\u0E01\u0E32\u0E23\u0E17\u0E14\u0E2A\u0E2D\u0E1A\u0E41\u0E25\
+      \u0E30\u0E01\u0E32\u0E23\u0E2B\u0E32\u0E04\u0E48\u0E32\u0E40\u0E2B\u0E21\u0E32\
+      \u0E30\u0E2A\u0E21\u0E17\u0E35\u0E48\u0E2A\u0E38\u0E14"
+    description_eng: "Theories and models of MOS transistor, CMOS gate construction,\
+      \ integrated circuit\r\ntechnology and fabrication process, techniques and rules\
+      \ for IC design, performance estimation\r\nusing CAD and simulation tools, optimizing\
+      \ the performance of CMOS circuits, theories of\r\nFPGA and related technologies,\
+      \ prototyping VLSI circuits using VHDL, testing and optimizing."
+    institution: 1
+    name: "\u0E23\u0E30\u0E1A\u0E1A\u0E27\u0E07\u0E08\u0E23\u0E23\u0E27\u0E21\u0E02\
+      \u0E19\u0E32\u0E14\u0E43\u0E2B\u0E0D\u0E48\u0E21\u0E32\u0E01"
+    name_eng: VLSI Systems
+    prerequisites: [93]
+    units: 3
+    years_available: 3
+  model: core.subject
+  pk: 94
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: true
+    code: '205415'
+    description: "\u0E2B\u0E25\u0E31\u0E01\u0E21\u0E39\u0E25\u0E01\u0E32\u0E23\u0E1B\
+      \u0E23\u0E30\u0E21\u0E27\u0E25\u0E20\u0E32\u0E1E\u0E14\u0E34\u0E08\u0E34\u0E17\
+      \u0E31\u0E25 \u0E01\u0E32\u0E23\u0E1B\u0E23\u0E31\u0E1A\u0E1B\u0E23\u0E38\u0E07\
+      \u0E20\u0E32\u0E1E\u0E43\u0E19\u0E42\u0E14\u0E40\u0E21\u0E19\u0E1E\u0E37\u0E49\
+      \u0E19\u0E17\u0E35\u0E48\u0E41\u0E25\u0E30\u0E42\u0E14\u0E40\u0E21\u0E19\u0E04\
+      \u0E27\u0E32\u0E21\u0E16\u0E35\u0E48 \u0E01\u0E32\u0E23\r\n\u0E0B\u0E48\u0E2D\
+      \u0E21\u0E04\u0E37\u0E19\u0E2A\u0E20\u0E32\u0E1E\u0E02\u0E2D\u0E07\u0E20\u0E32\
+      \u0E1E \u0E40\u0E27\u0E1F\u0E40\u0E25\u0E47\u0E15\u0E41\u0E25\u0E30\u0E01\u0E32\
+      \u0E23\u0E1B\u0E23\u0E30\u0E21\u0E27\u0E25\u0E41\u0E1A\u0E1A\u0E2B\u0E25\u0E32\
+      \u0E22\u0E04\u0E27\u0E32\u0E21\u0E25\u0E30\u0E40\u0E2D\u0E35\u0E22\u0E14 \u0E01\
+      \u0E32\u0E23\u0E1B\u0E23\u0E30\u0E21\u0E27\u0E25\u0E20\u0E32\u0E1E\u0E41\u0E1A\
+      \u0E1A\r\n\u0E2A\u0E31\u0E13\u0E10\u0E32\u0E19\u0E27\u0E34\u0E17\u0E22\u0E32\
+      \ \u0E01\u0E32\u0E23\u0E41\u0E1A\u0E48\u0E07\u0E2A\u0E48\u0E27\u0E19\u0E01\u0E32\
+      \u0E23\u0E08\u0E33\u0E41\u0E19\u0E01 \u0E01\u0E32\u0E23\u0E41\u0E17\u0E19\u0E41\
+      \u0E25\u0E30\u0E23\u0E32\u0E22\u0E25\u0E30\u0E40\u0E2D\u0E35\u0E22\u0E14\u0E1B\
+      \u0E23\u0E30\u0E01\u0E2D\u0E1A\u0E20\u0E32\u0E1E \u0E01\u0E32\u0E23\u0E23\u0E39\
+      \u0E49\u0E08\u0E33\u0E27\u0E31\u0E15\u0E16\u0E38"
+    description_eng: "Fundamentals of digital image processing; image enhancement\
+      \ in spatial; image\r\ntransform; enhancement in frequency domains; image restoration;\
+      \ color image processing;\r\nwavelets and multi-resolution processing; morphological\
+      \ image processing; image segmentation\r\nand classification, representation\
+      \ and description, object recognition."
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E1B\u0E23\u0E30\u0E21\u0E27\u0E25\u0E20\u0E32\u0E1E\
+      \u0E14\u0E34\u0E08\u0E34\u0E17\u0E31\u0E25"
+    name_eng: Digital Image Processing
+    prerequisites: []
+    units: 3
+    years_available: 4
+  model: core.subject
+  pk: 95
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '206221'
+    description: "\u0E04\u0E27\u0E32\u0E21\u0E19\u0E48\u0E32\u0E08\u0E30\u0E40\u0E1B\
+      \u0E47\u0E19 \u0E04\u0E48\u0E32\u0E04\u0E32\u0E14\u0E04\u0E30\u0E40\u0E19\u0E41\
+      \u0E25\u0E30\u0E01\u0E32\u0E23\u0E41\u0E08\u0E01\u0E41\u0E08\u0E07\u0E04\u0E27\
+      \u0E32\u0E21\u0E19\u0E48\u0E32\u0E08\u0E30\u0E40\u0E1B\u0E47\u0E19\u0E17\u0E35\
+      \u0E48\u0E43\u0E0A\u0E49\u0E17\u0E31\u0E48\u0E27\u0E44\u0E1B\u0E01\u0E32\u0E23\
+      \u0E41\u0E08\u0E01\u0E41\u0E08\u0E07\u0E08\u0E32\u0E01\u0E01\u0E32\u0E23\u0E2A\
+      \u0E38\u0E48\u0E21\r\n\u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07\u0E01\
+      \u0E32\u0E23\u0E2D\u0E19\u0E38\u0E21\u0E32\u0E19\u0E17\u0E32\u0E07\u0E2A\u0E16\
+      \u0E34\u0E15\u0E34\u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E1B\u0E31\u0E0D\u0E2B\
+      \u0E32\u0E01\u0E32\u0E23\u0E2A\u0E38\u0E48\u0E21\u0E15\u0E31\u0E27\u0E2D\u0E22\
+      \u0E48\u0E32\u0E07\u0E2B\u0E19\u0E36\u0E48\u0E07\u0E41\u0E25\u0E30\u0E2A\u0E2D\
+      \u0E07\u0E0A\u0E38\u0E14 \u0E01\u0E32\u0E23\u0E27\u0E34\u0E40\u0E04\u0E23\u0E32\
+      \u0E30\u0E2B\u0E4C\u0E01\u0E32\u0E23\u0E16\u0E14\u0E16\u0E2D\u0E22\u0E01\u0E32\
+      \u0E23\r\n\u0E27\u0E34\u0E40\u0E04\u0E23\u0E32\u0E30\u0E2B\u0E4C\u0E04\u0E27\
+      \u0E32\u0E21\u0E41\u0E1B\u0E23\u0E1B\u0E23\u0E27\u0E19\u0E41\u0E25\u0E30\u0E01\
+      \u0E32\u0E23\u0E1B\u0E23\u0E30\u0E22\u0E38\u0E01\u0E15\u0E4C\u0E2A\u0E16\u0E34\
+      \u0E15\u0E34\u0E01\u0E31\u0E1A\u0E23\u0E30\u0E1A\u0E1A\u0E2D\u0E38\u0E15\u0E2A\
+      \u0E32\u0E2B\u0E01\u0E23\u0E23\u0E21"
+    description_eng: "Probability, expectation and common probability distributions,\
+      \ sampling distributions, statistical\r\ninference for one-and-two sample problems,\
+      \ regression analysis, analysis of variance and their\r\napplications to industrial\
+      \ systems."
+    institution: 1
+    name: "\u0E04\u0E27\u0E32\u0E21\u0E19\u0E48\u0E32\u0E08\u0E30\u0E40\u0E1B\u0E47\
+      \u0E19\u0E41\u0E25\u0E30\u0E2A\u0E16\u0E34\u0E15\u0E34\u0E1B\u0E23\u0E30\u0E22\
+      \u0E38\u0E01\u0E15\u0E4C\u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E27\u0E34\u0E28\
+      \u0E27\u0E01\u0E23"
+    name_eng: Applied Probability and Statistics for Engineers
+    prerequisites: [14]
+    units: 3
+    years_available: 2
+  model: core.subject
+  pk: 96
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '206321'
+    description: "\u0E40\u0E17\u0E04\u0E19\u0E34\u0E04\u0E01\u0E32\u0E23\u0E41\u0E01\
+      \u0E49\u0E1B\u0E31\u0E0D\u0E2B\u0E32\u0E40\u0E0A\u0E34\u0E07\u0E01\u0E33\u0E2B\
+      \u0E19\u0E14 \u0E41\u0E1A\u0E1A\u0E08\u0E33\u0E25\u0E2D\u0E07\u0E17\u0E32\u0E07\
+      \u0E04\u0E13\u0E34\u0E15\u0E28\u0E32\u0E2A\u0E15\u0E23\u0E4C \u0E01\u0E33\u0E2B\
+      \u0E19\u0E14\u0E01\u0E32\u0E23\u0E40\u0E0A\u0E34\u0E07\u0E40\u0E2A\u0E49\u0E19\
+      \ \u0E41\u0E25\u0E30\u0E1B\u0E31\u0E0D\u0E2B\u0E32\u0E04\u0E39\u0E48\r\n\u0E04\
+      \u0E27\u0E1A \u0E41\u0E1A\u0E1A\u0E08\u0E33\u0E25\u0E2D\u0E07\u0E42\u0E04\u0E23\
+      \u0E07\u0E02\u0E48\u0E32\u0E22 \u0E41\u0E1A\u0E1A\u0E08\u0E33\u0E25\u0E2D\u0E07\
+      \u0E1E\u0E31\u0E2A\u0E14\u0E38\u0E04\u0E07\u0E04\u0E25\u0E31\u0E07 \u0E01\u0E32\
+      \u0E23\u0E41\u0E01\u0E49\u0E44\u0E02\u0E1B\u0E31\u0E0D\u0E2B\u0E32\u0E17\u0E32\
+      \u0E07\u0E2D\u0E38\u0E15\u0E2A\u0E32\u0E2B\u0E01\u0E23\u0E23\u0E21 \u0E1B\u0E31\
+      \u0E0D\u0E2B\u0E32\u0E01\u0E32\u0E23\r\n\u0E02\u0E19\u0E2A\u0E48\u0E07\u0E41\
+      \u0E25\u0E30\u0E01\u0E32\u0E23\u0E2A\u0E48\u0E07\u0E1C\u0E48\u0E32\u0E19 \u0E1B\
+      \u0E31\u0E0D\u0E2B\u0E32\u0E01\u0E32\u0E23\u0E21\u0E2D\u0E1A\u0E2B\u0E21\u0E32\
+      \u0E22\u0E07\u0E32\u0E19 \u0E40\u0E17\u0E04\u0E19\u0E34\u0E04\u0E01\u0E32\u0E23\
+      \u0E41\u0E01\u0E49\u0E1B\u0E31\u0E0D\u0E2B\u0E32\u0E1B\u0E31\u0E0D\u0E2B\u0E32\
+      \u0E17\u0E35\u0E48\u0E44\u0E21\u0E48\u0E40\u0E1B\u0E47\u0E19\u0E1B\u0E31\u0E0D\
+      \u0E2B\u0E32\u0E40\u0E0A\u0E34\u0E07\u0E01\u0E33\u0E2B\u0E19\u0E14\r\n\u0E01\
+      \u0E32\u0E23\u0E15\u0E31\u0E14\u0E2A\u0E34\u0E19\u0E43\u0E08\u0E20\u0E32\u0E22\
+      \u0E43\u0E15\u0E49\u0E04\u0E27\u0E32\u0E21\u0E44\u0E21\u0E48\u0E41\u0E19\u0E48\
+      \u0E19\u0E2D\u0E19\u0E41\u0E25\u0E30\u0E04\u0E27\u0E32\u0E21\u0E40\u0E2A\u0E35\
+      \u0E48\u0E22\u0E07 \u0E17\u0E24\u0E29\u0E0E\u0E35\u0E40\u0E01\u0E21\u0E2A\u0E4C\
+      \ \u0E17\u0E24\u0E29\u0E0E\u0E35\u0E41\u0E16\u0E27\u0E04\u0E2D\u0E22 \u0E01\u0E32\
+      \u0E23\u0E43\u0E0A\u0E49\u0E41\u0E1A\u0E1A\u0E08\u0E33\u0E25\u0E2D\u0E07\r\n\
+      \u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E01\u0E32\u0E23\u0E15\u0E31\u0E14\u0E2A\u0E34\
+      \u0E19\u0E43\u0E08"
+    description_eng: "Techniques for solving deterministic problems: mathematical\
+      \ modeling, linear programming\r\nand dual problems, network models, inventory\
+      \ models, transportation and transshipment problems,\r\nassignment problems;\
+      \ techniques for solving non-deterministic problems: decision making under\r\
+      \nuncertainty and risk, games theory, queuing theory, simulation model for decision\
+      \ making."
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E27\u0E34\u0E08\u0E31\u0E22\u0E01\u0E32\u0E23\u0E14\
+      \u0E33\u0E40\u0E19\u0E34\u0E19\u0E07\u0E32\u0E19\u0E2A\u0E33\u0E2B\u0E23\u0E31\
+      \u0E1A\u0E27\u0E34\u0E28\u0E27\u0E01\u0E23 I"
+    name_eng: Operations Research for Engineers I
+    prerequisites: [96]
+    units: 3
+    years_available: 3
+  model: core.subject
+  pk: 97
+- fields:
+    available_in_first_semester: true
+    available_in_second_semester: true
+    available_in_summer_semester: false
+    code: '206323'
+    description: "\u0E40\u0E17\u0E04\u0E19\u0E34\u0E04\u0E01\u0E32\u0E23\u0E41\u0E01\
+      \u0E49\u0E1B\u0E31\u0E0D\u0E2B\u0E32\u0E01\u0E33\u0E2B\u0E19\u0E14\u0E01\u0E32\
+      \u0E23\u0E17\u0E35\u0E48\u0E44\u0E21\u0E48\u0E40\u0E1B\u0E47\u0E19\u0E40\u0E0A\
+      \u0E34\u0E07\u0E40\u0E2A\u0E49\u0E19\u0E01\u0E33\u0E2B\u0E19\u0E14\u0E01\u0E32\
+      \u0E23\u0E40\u0E25\u0E02\u0E10\u0E32\u0E19\u0E2A\u0E2D\u0E07 \u0E01\u0E33\u0E2B\
+      \u0E19\u0E14\u0E01\u0E32\u0E23\u0E40\u0E25\u0E02\u0E08\u0E33\u0E19\u0E27\u0E19\
+      \r\n\u0E40\u0E15\u0E47\u0E21 \u0E01\u0E33\u0E2B\u0E19\u0E14\u0E01\u0E32\u0E23\
+      \u0E40\u0E23\u0E02\u0E32\u0E04\u0E13\u0E34\u0E15 \u0E01\u0E33\u0E2B\u0E19\u0E14\
+      \u0E01\u0E32\u0E23\u0E40\u0E0A\u0E34\u0E07\u0E1E\u0E25\u0E27\u0E31\u0E15 \u0E40\
+      \u0E17\u0E04\u0E19\u0E34\u0E04\u0E01\u0E32\u0E23\u0E02\u0E22\u0E32\u0E22\u0E41\
+      \u0E25\u0E30\u0E08\u0E33\u0E01\u0E31\u0E14\u0E40\u0E02\u0E15 \u0E1B\u0E31\u0E0D\
+      \u0E2B\u0E32\u0E01\u0E32\u0E23\u0E1A\u0E23\u0E34\u0E2B\u0E32\u0E23\r\n\u0E42\
+      \u0E04\u0E23\u0E07\u0E01\u0E32\u0E23\u0E27\u0E34\u0E18\u0E35\u0E40\u0E2A\u0E49\
+      \u0E19\u0E17\u0E32\u0E07\u0E27\u0E34\u0E01\u0E24\u0E15 \u0E1B\u0E31\u0E0D\u0E2B\
+      \u0E32\u0E01\u0E32\u0E23\u0E40\u0E14\u0E34\u0E19\u0E17\u0E32\u0E07\u0E02\u0E2D\
+      \u0E07\u0E1E\u0E19\u0E31\u0E01\u0E07\u0E32\u0E19\u0E02\u0E32\u0E22\u0E41\u0E25\
+      \u0E30\u0E1A\u0E38\u0E23\u0E38\u0E29\u0E44\u0E1B\u0E23\u0E29\u0E13\u0E35\u0E22\
+      \u0E4C\u0E08\u0E35\u0E19 \u0E40\u0E17\u0E04\u0E19\u0E34\u0E04\u0E01\u0E32\u0E23\
+      \r\n\u0E41\u0E01\u0E49\u0E1B\u0E31\u0E0D\u0E2B\u0E32\u0E17\u0E35\u0E48\u0E21\
+      \u0E35\u0E04\u0E27\u0E32\u0E21\u0E19\u0E48\u0E32\u0E08\u0E30\u0E40\u0E1B\u0E47\
+      \u0E19 \u0E25\u0E39\u0E01\u0E42\u0E0B\u0E48\u0E21\u0E32\u0E23\u0E4C\u0E04\u0E2D\
+      \u0E1F\u0E41\u0E25\u0E30\u0E41\u0E1A\u0E1A\u0E08\u0E33\u0E25\u0E2D\u0E07"
+    description_eng: "Techniques for solving non-linear programming problems: binary\
+      \ programming, integer\r\nprogramming, geometric programming, dynamic programming,\
+      \ branch and bound technique; project\r\nmanagement problem: critical path method,\
+      \ traveling salesman problem and chinese postman problem;\r\ntechniques for\
+      \ solving probabilistic problems: Markov chain and simulation model."
+    institution: 1
+    name: "\u0E01\u0E32\u0E23\u0E27\u0E34\u0E08\u0E31\u0E22\u0E01\u0E32\u0E23\u0E14\
+      \u0E33\u0E40\u0E19\u0E34\u0E19\u0E07\u0E32\u0E19\u0E2A\u0E33\u0E2B\u0E23\u0E31\
+      \u0E1A\u0E27\u0E34\u0E28\u0E27\u0E01\u0E23 II"
+    name_eng: Operations Research for Engineers II
+    prerequisites: [97]
+    units: 3
+    years_available: 3
+  model: core.subject
+  pk: 98
+

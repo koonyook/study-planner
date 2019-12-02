@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+
+{% block current-core-index %} class="current"{% endblock %}
+
+{% block content %}
+<h1>Result</h1>
+			
+<h2>Courses Recommended <span>(hope you enjoy the results)</span></h2>
+<div class="inner-box clearfix">
+
+	{% include "core/sidebar.html" %}
+	
+    <div id="table-block">
+        
+        {% for semester in results %}
+            <table cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr class="header">
+                		<td colspan="2">Year {{ semester.year }}</td>
+                		<td colspan="2">Semester {{ semester.semester }}</td>
+                	</tr>
+                	<tr class="header">
+                		<td>Code</td>
+                		<td>Name</td>
+                		<td>Description</td>
+                		<td>Units</td>
+                	</tr>
+                	{% for subject in semester.subjects %}
+                	    <tr>
+                    		<td>{{ subject.code }}</td>
+                    		<td>{{ subject.name }}</td>
+                    		<td>{{ subject.description }}</td>
+                    		<td>{{ subject.units }}</td>
+                    	</tr>
+                	{% endfor %}
+                </tbody>
+            </table>
+        {% endfor %}
+    
+    </div>
+
+</div>
+{% endblock %}

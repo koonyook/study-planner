@@ -1,0 +1,11 @@
+- fields:
+    is_parallelable: true
+    subjects: [6, 12]
+  model: core.prerequisite
+  pk: 2
+- fields:
+    is_parallelable: false
+    subjects: [5, 15, 17]
+  model: core.prerequisite
+  pk: 3
+

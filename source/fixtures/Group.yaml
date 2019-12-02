@@ -1,0 +1,62 @@
+- fields:
+    description: "\u0E08\u0E23\u0E34\u0E07\u0E46\u0E21\u0E35 new age \u0E41\u0E15\u0E48\
+      \u0E22\u0E31\u0E07\u0E44\u0E21\u0E48\u0E44\u0E14\u0E49\u0E43\u0E2A\u0E48"
+    institution: 1
+    name: "\u0E04\u0E13\u0E34\u0E15-\u0E27\u0E34\u0E17\u0E22\u0E4C (\u0E2A\u0E32\u0E02\
+      \u0E32\u0E27\u0E34\u0E28\u0E27\u0E01\u0E23\u0E23\u0E21\u0E04\u0E2D\u0E21\u0E1E\
+      \u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C)"
+    required_units: 3
+    subjects: [75, 76, 77]
+  model: core.group
+  pk: 3
+- fields:
+    description: "\u0E27\u0E34\u0E0A\u0E32 175xxx"
+    institution: 1
+    name: "\u0E1E\u0E25\u0E28\u0E36\u0E01\u0E29\u0E32 (\u0E04\u0E13\u0E30\u0E27\u0E34\
+      \u0E28\u0E27\u0E01\u0E23\u0E23\u0E21\u0E28\u0E32\u0E2A\u0E15\u0E23\u0E4C)"
+    required_units: 2
+    subjects: [87, 88, 89, 90]
+  model: core.group
+  pk: 2
+- fields:
+    description: ''
+    institution: 1
+    name: "\u0E20\u0E32\u0E29\u0E32 (\u0E2A\u0E32\u0E02\u0E32\u0E27\u0E34\u0E28\u0E27\
+      \u0E01\u0E23\u0E23\u0E21\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\
+      \u0E23\u0E4C)"
+    required_units: 3
+    subjects: [83, 84, 85, 86]
+  model: core.group
+  pk: 4
+- fields:
+    description: ''
+    institution: 1
+    name: "\u0E2A\u0E31\u0E07\u0E04\u0E21 (\u0E2A\u0E32\u0E02\u0E32\u0E27\u0E34\u0E28\
+      \u0E27\u0E01\u0E23\u0E23\u0E21\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\
+      \u0E2D\u0E23\u0E4C)"
+    required_units: 3
+    subjects: [78, 79]
+  model: core.group
+  pk: 5
+- fields:
+    description: ''
+    institution: 1
+    name: "\u0E21\u0E19\u0E38\u0E29\u0E22\u0E4C (\u0E2A\u0E32\u0E02\u0E32\u0E27\u0E34\
+      \u0E28\u0E27\u0E01\u0E23\u0E23\u0E21\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\
+      \u0E15\u0E2D\u0E23\u0E4C)"
+    required_units: 3
+    subjects: [80, 81, 82]
+  model: core.group
+  pk: 6
+- fields:
+    description: ''
+    institution: 1
+    name: "\u0E27\u0E34\u0E0A\u0E32\u0E40\u0E09\u0E1E\u0E32\u0E30\u0E40\u0E25\u0E37\
+      \u0E2D\u0E01\u0E2A\u0E32\u0E02\u0E32\u0E27\u0E34\u0E28\u0E27\u0E01\u0E23\u0E23\
+      \u0E21\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C"
+    required_units: 18
+    subjects: [3, 17, 23, 27, 28, 29, 30, 31, 32, 33, 35, 36, 37, 38, 39, 40, 41,
+      42, 43, 44, 45, 46, 47, 49, 50, 51, 52, 54, 56, 91, 92, 94, 95, 97, 98]
+  model: core.group
+  pk: 7
+

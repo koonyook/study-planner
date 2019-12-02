@@ -1,0 +1,201 @@
+- fields:
+    is_parallelable: false
+    subjects: [14]
+  model: core.prerequisite
+  pk: 5
+- fields:
+    is_parallelable: false
+    subjects: [96]
+  model: core.prerequisite
+  pk: 4
+- fields:
+    is_parallelable: false
+    subjects: [93]
+  model: core.prerequisite
+  pk: 6
+- fields:
+    is_parallelable: false
+    subjects: [61]
+  model: core.prerequisite
+  pk: 7
+- fields:
+    is_parallelable: true
+    subjects: [72, 73]
+  model: core.prerequisite
+  pk: 8
+- fields:
+    is_parallelable: true
+    subjects: [71]
+  model: core.prerequisite
+  pk: 9
+- fields:
+    is_parallelable: false
+    subjects: [71]
+  model: core.prerequisite
+  pk: 10
+- fields:
+    is_parallelable: false
+    subjects: [12]
+  model: core.prerequisite
+  pk: 11
+- fields:
+    is_parallelable: false
+    subjects: [67]
+  model: core.prerequisite
+  pk: 12
+- fields:
+    is_parallelable: false
+    subjects: [65]
+  model: core.prerequisite
+  pk: 13
+- fields:
+    is_parallelable: false
+    subjects: [60]
+  model: core.prerequisite
+  pk: 16
+- fields:
+    is_parallelable: true
+    subjects: [64]
+  model: core.prerequisite
+  pk: 15
+- fields:
+    is_parallelable: false
+    subjects: [59]
+  model: core.prerequisite
+  pk: 17
+- fields:
+    is_parallelable: false
+    subjects: [16]
+  model: core.prerequisite
+  pk: 18
+- fields:
+    is_parallelable: false
+    subjects: [5, 48]
+  model: core.prerequisite
+  pk: 33
+- fields:
+    is_parallelable: false
+    subjects: [24]
+  model: core.prerequisite
+  pk: 20
+- fields:
+    is_parallelable: false
+    subjects: [97]
+  model: core.prerequisite
+  pk: 21
+- fields:
+    is_parallelable: true
+    subjects: [100]
+  model: core.prerequisite
+  pk: 24
+- fields:
+    is_parallelable: false
+    subjects: [101]
+  model: core.prerequisite
+  pk: 23
+- fields:
+    is_parallelable: false
+    subjects: [99]
+  model: core.prerequisite
+  pk: 25
+- fields:
+    is_parallelable: false
+    subjects: [102]
+  model: core.prerequisite
+  pk: 26
+- fields:
+    is_parallelable: false
+    subjects: [18]
+  model: core.prerequisite
+  pk: 34
+- fields:
+    is_parallelable: true
+    subjects: [103]
+  model: core.prerequisite
+  pk: 28
+- fields:
+    is_parallelable: true
+    subjects: [102]
+  model: core.prerequisite
+  pk: 30
+- fields:
+    is_parallelable: false
+    subjects: [42]
+  model: core.prerequisite
+  pk: 35
+- fields:
+    is_parallelable: false
+    subjects: [6]
+  model: core.prerequisite
+  pk: 36
+- fields:
+    is_parallelable: false
+    subjects: [6, 16]
+  model: core.prerequisite
+  pk: 37
+- fields:
+    is_parallelable: false
+    subjects: [21, 31]
+  model: core.prerequisite
+  pk: 38
+- fields:
+    is_parallelable: false
+    subjects: [6, 34]
+  model: core.prerequisite
+  pk: 39
+- fields:
+    is_parallelable: false
+    subjects: [21]
+  model: core.prerequisite
+  pk: 40
+- fields:
+    is_parallelable: false
+    subjects: [11]
+  model: core.prerequisite
+  pk: 41
+- fields:
+    is_parallelable: false
+    subjects: [29]
+  model: core.prerequisite
+  pk: 42
+- fields:
+    is_parallelable: false
+    subjects: [20]
+  model: core.prerequisite
+  pk: 43
+- fields:
+    is_parallelable: false
+    subjects: [8]
+  model: core.prerequisite
+  pk: 44
+- fields:
+    is_parallelable: true
+    subjects: [28]
+  model: core.prerequisite
+  pk: 45
+- fields:
+    is_parallelable: false
+    subjects: [5]
+  model: core.prerequisite
+  pk: 46
+- fields:
+    is_parallelable: false
+    subjects: [22]
+  model: core.prerequisite
+  pk: 47
+- fields:
+    is_parallelable: false
+    subjects: [10, 11]
+  model: core.prerequisite
+  pk: 48
+- fields:
+    is_parallelable: false
+    subjects: [4, 5]
+  model: core.prerequisite
+  pk: 49
+- fields:
+    is_parallelable: false
+    subjects: [4]
+  model: core.prerequisite
+  pk: 50
+
